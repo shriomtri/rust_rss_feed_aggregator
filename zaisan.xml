@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>GameFi Archives - Zaisan</title>
+	<atom:link href="https://zaisan.io/category/gamefi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://zaisan.io/category/gamefi/</link>
+	<description>Web3 Solution Provider</description>
+	<lastBuildDate>Fri, 21 Jul 2023 11:39:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://zaisan.io/wp-content/uploads/2022/09/cropped-Zaisan_ProfileAvatars_Symbol-01-32x32.png</url>
+	<title>GameFi Archives - Zaisan</title>
+	<link>https://zaisan.io/category/gamefi/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Play-to-Earn Business Models for Games</title>
+		<link>https://zaisan.io/play-to-earn-business-models-games/</link>
+		
+		<dc:creator><![CDATA[Adam Bouktila]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 11:00:00 +0000</pubDate>
+				<category><![CDATA[GameFi]]></category>
+		<guid isPermaLink="false">https://zaisan.io/?p=4686</guid>
+
+					<description><![CDATA[<p>The advent of blockchain technology circa 2008 was the starting shot for deep changes in how business is conducted across many sectors. From supply chain to entertainment, decentralised technology is finding its way into more and more use cases every day. The gaming industry is no exception. Blockchain now supports the Play-to-Earn (P2E) model, in [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://zaisan.io/play-to-earn-business-models-games/">Play-to-Earn Business Models for Games</a> appeared first on <a rel="nofollow" href="https://zaisan.io">Zaisan</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The advent of blockchain technology circa 2008 was the starting shot for deep changes in how business is conducted across many sectors. From supply chain to entertainment, decentralised technology is finding its way into more and more use cases every day. The gaming industry is no exception. Blockchain now supports the Play-to-Earn (P2E) model, in which gamers can monetise their assets. This article explains the history of P2E and its mechanics and offers a comprehensive guide to help developers understand the concepts that underpin P2E models.</p>
+
+
+
+<figure class="wp-block-video"><video controls poster="https://zaisan.io/wp-content/uploads/2022/10/benefits-of-web3-gaming.jpg" src="https://5261994.fs1.hubspotusercontent-na1.net/hubfs/5261994/Video/QandA/Q&amp;A%20with%20Adam%20-%20What%20are%20the%20benefits%20of%20web3%20gaming.mp4"></video></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>A look back in time</strong></h2>
+
+
+
+<p>The year 2013 was chock-full of quirks. Onesies, those one-piece, often colorful jumpsuits for adults, became a thing this year. Also, selfie was named as word of the year by the Oxford Dictionary. US President Barack Obama -who, incidentally, was inaugurated for his second term in office in early 2013- became one of the high-profile personalities taking to the selfie craze with gusto. Hillary Clinton did, too.</p>
+
+
+
+<p>In the crypto world, Bitcoin was on the rise, though its valuation fluctuated wildly throughout the year. The mother of all cryptos started 2013 with a worth of $13 per coin before reaching a peak price of $1,100 by December. As Bitcoin floundered, a related concept made its appearance: blockchain gaming. Huntercoin, the precursor of the Play-to-Earn (P2E) model, was born.</p>
+
+
+
+<p>Huntercoin is built on the concept of &#8216;human mining.&#8217; Whereas traditional Bitcoin mining requires powerful computer rigs and vast amounts of power to mine new coins, Huntercoin distributes coins around its gaming world. Players create Hunters (for a fee) to move around the map collecting coins, which must be deposited into banks that are randomly generated at regular intervals. From there, the coins can be redeemed into the Hunter&#8217;s (the player) wallet.&nbsp;</p>
+
+
+
+<p>The project proved that the combination of blockchain -a technology still relatively new in 2013- and gaming could work. But just as the P2E industry was starting to find a solid footing, the <a href="https://www.buybitcoinworldwide.com/mt-gox-hack/" target="_blank" rel="noreferrer noopener">Mt. Gox hack</a> happened. Though specifically related to Bitcoin exchange facility, the popular perception of blockchain as a &#8216;fraud&#8217; or &#8216;scam&#8217; took hold. The consequences of the spectacular fall of Mt. Gox rippled out across the industry. Many nascent P2E projects were halted or canned altogether, as blockchain became almost toxic. It would be several years before P2E made a significant comeback.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>2017: the year of the virtual cat</strong></h2>
+
+
+
+<p>Cats are immensely popular animals on social media. &#8216;Funny cat videos&#8217; tend to accrue hundreds of thousands of videos on TikTok or YouTube. And back in 2017, felines spread their domain into the crypto space through CryptoKitties, a P2E game that enabled gamers to purchase NFTs depicting cute cats. Over time, players could breed their NFT pets to create new ones, and so the cycle continued.&nbsp;</p>
+
+
+
+<p>CryptoKitties became the first more or less mainstream blockchain game. And it made some respectable amount of money, too. The most expensive CryptoKitty ever sold, a purple creature by the name of Dragon, fetched $1.3m (around 600 ETH at the time.)&nbsp;</p>
+
+
+
+<p>The advent (and success) of the virtual cat game reignited interest in blockchain gaming, opening the floodgates for a rush of P2E games that continues to this day.</p>
+
+
+
+<figure class="wp-block-video"><video controls poster="https://zaisan.io/wp-content/uploads/2022/10/gamefi-need-to-go-mainstream.jpg" src="https://5261994.fs1.hubspotusercontent-na1.net/hubfs/5261994/Video/QandA/Q&amp;A%20with%20Adam%20-%20What%20does%20gamefi%20need%20to%20go%20mainstream.mp4"></video></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>But what exactly is P2E?</strong></h2>
+
+
+
+<p>In other gaming models -notably, Pay to win (P2W) and Free to play (F2P), the revenue generated only goes one way: towards the game’s developers. Gamers themselves do not benefit financially. P2E turns this one-way street concept on its head by enabling gamers to financially benefit from the value they create.</p>
+
+
+
+<p>P2E leverages the power of blockchain to create a fair and open economic environment where value is distributed among gamers.</p>
+
+
+
+<p>This model centers around the ownership of in-game assets. A core tenet of P2W and F2P is that, while gamers can purchase assets like weapons, skins, magic items, etc., they do not actually own them. The game’s developer retains ownership. What the gamer is purchasing is the right to use those assets in their game only. This means the gamer cannot trade these assets, and crucially, cannot use them in any other game.</p>
+
+
+
+<p>Blockchain technology subverts that concept. Blockchain is decentralised technology, which means there is no one single authority in control. And it further means that in-game assets are not stored in a centralised server, as is the case with P2W and F2P. Instead, assets are stored on all the nodes (computers) running that blockchain.</p>
+
+
+
+<p>In P2E games, the gamers own the assets, which can increase in value in the game’s open economy. The more you play the game, the more value is generated, and the bigger the rewards for the player. These rewards can be additional in-game assets or resources or cryptocurrencies, all of which are tokenised in the blockchain. This is a key point. By tokenizing assets, the gamers can use them elsewhere. In another blockchain-based game, for instance, or by creating non-fungible tokens (NFTs), which can be traded. All this generates more and more value for the blockchain gaming environment and the players.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Zaisan as the nexus for providing comprehensive P2E services</strong></h2>
+
+
+
+<p>Considering all the aspects explained above, companies require great expertise and understanding of the space to be able to provide efficient, comprehensive services.</p>
+
+
+
+<p>Zaisan`fields that expertise, which enables the company to become the preferential choice for developers intending to create a P2E ecosystem.&nbsp;</p>
+
+
+
+<p>Zaisan can:</p>
+
+
+
+<ul>
+<li>Deploy <a href="https://zaisan.io/services">backend infrastructure</a></li>
+
+
+
+<li>Offer <a href="https://zaisan.io/services/web3-consultancy">consulting services</a> to assist the client in choosing the right chain</li>
+
+
+
+<li><a href="https://zaisan.io/services/web3-consultancy">Set up test environmen</a><a href="https://zaisan.io/infra/blockchain-consultancy">ts</a></li>
+
+
+
+<li><a href="https://zaisan.io/services/web3-consultancy">Set up a blockchain</a> customised to specifications</li>
+
+
+
+<li>Build <a href="https://zaisan.io/solutions/bridge">blockchain bridges</a></li>
+
+
+
+<li>Provide <a href="https://zaisan.io/services/nft-project-management">NFT project management</a></li>
+
+
+
+<li>Establish a <a href="https://zaisan.io/solutions/staking-platforms">customised staking platform</a></li>
+</ul>
+
+
+
+<p>Additionally, identity is a key component of many aspects of life, and this includes blockchain environments, of course. Zaisan has developed my.D, a proprietary <a href="https://zaisan.io/solutions/identity">Know-Your-Customer (KYC) service</a>, which enables clients to verify the identity of their potential clients. This streamlines the onboarding process and removes fraud from the equation.</p>
+<p>The post <a rel="nofollow" href="https://zaisan.io/play-to-earn-business-models-games/">Play-to-Earn Business Models for Games</a> appeared first on <a rel="nofollow" href="https://zaisan.io">Zaisan</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://5261994.fs1.hubspotusercontent-na1.net/hubfs/5261994/Video/QandA/Q&#038;A%20with%20Adam%20-%20What%20does%20gamefi%20need%20to%20go%20mainstream.mp4" length="20447843" type="video/mp4" />
+<enclosure url="https://5261994.fs1.hubspotusercontent-na1.net/hubfs/5261994/Video/QandA/Q&#038;A%20with%20Adam%20-%20What%20are%20the%20benefits%20of%20web3%20gaming.mp4" length="35741364" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>NFT Staking Explained: Generating Value</title>
+		<link>https://zaisan.io/nft-staking-explained/</link>
+		
+		<dc:creator><![CDATA[Yannick Slenter]]></dc:creator>
+		<pubDate>Thu, 07 Apr 2022 10:10:23 +0000</pubDate>
+				<category><![CDATA[GameFi]]></category>
+		<category><![CDATA[NFT]]></category>
+		<guid isPermaLink="false">https://zaisan.io/?p=4073</guid>
+
+					<description><![CDATA[<p>Featured image: R2-Rewards.com So you&#8217;ve got a nice collection of non-fungible tokens (NFTs). After a few months, you have managed to amass a respectable amount of those little digital wonders. You might have even been able to sell one or two, earning you enough for a couple cups of coffee in your nearest franchised outlet. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://zaisan.io/nft-staking-explained/">NFT Staking Explained: Generating Value</a> appeared first on <a rel="nofollow" href="https://zaisan.io">Zaisan</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p style="font-size:14px">Featured image: <a href="https://r2-collectibles.com/" target="_blank" rel="noreferrer noopener">R2-Rewards.com</a></p>
+
+
+
+<p>So you&#8217;ve got a nice collection of non-fungible tokens (NFTs). After a few months, you have managed to amass a respectable amount of those little digital wonders. You might have even been able to sell one or two, earning you enough for a couple cups of coffee in your nearest franchised outlet. But as you take sips off that hard-earned coffee and browse through your NFT portfolio, you can&#8217;t help but wonder about the value hidden there, just waiting to be uncovered.&nbsp;</p>
+
+
+
+<p>Question is, how to unlock the value in those NFTs?&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">NFT staking: definition</h2>
+
+
+
+<p>When they hear the word staking, most people&#8217;s minds would harken back to the old Hammer films, when the nefarious Dracula would meet his demise with a wooden stake through the heart. And yes, that is one traditional understanding of the word staking.&nbsp;</p>
+
+
+
+<p>But it&#8217;s 2022 now, and though Count Dracula still roams somewhere down the darkest halls of our dreams, staking now means something altogether more profitable.&nbsp;</p>
+
+
+
+<p>In today&#8217;s digital times, and in the context of NFTs, staking is sort of a game of investment/rewards. You commit (&#8216;lock&#8217;) your NFTs into a platform or a protocol for a set period of time, and you receive rewards (or other benefits) in exchange for such commitment.&nbsp;</p>
+
+
+
+<p>Staking addresses one NFTs&#8217; inherent issue: liquidity. Remember, NFTs are tokenized assets that you can sell, trade, or, as we see in this article, stake for a yield. Staking enables earning passive income off your NFT portfolio while retaining ownership.</p>
+
+
+
+<h2 class="wp-block-heading">Fungible vs non-fungible: an explanation</h2>
+
+
+
+<p>The concepts of fungibility and non-fungibility had, for a long time, been well outside the layman’s lexicon. But once NFTs entered public discourse, people began to learn more about what these concepts mean.</p>
+
+
+
+<p>In short, fungibility means the possibility of using goods, items, or commodities interchangeably because they have the same value. Banknotes or coins, pieces of the same fruit, or a liter of petrol are good examples of fungibility.</p>
+
+
+
+<p>Non-fungibility denotes uniqueness. Collectible items, including original oil paintings, baseball cards, art pieces, diamonds, and vintage cars can be considered non-fungible.</p>
+
+
+
+<p>It is the latter concept that emerges as most interesting, as non-fungibility carries value, and it is a value that NFT staking unlocks.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://zaisan.io/wp-content/uploads/2022/04/nft-staking-geepeekay-1.jpg" alt="" class="wp-image-4100"/><figcaption><sub>Image: <a href="https://r2-collectibles.com/" target="_blank" rel="noreferrer noopener">R2-</a><a href="https://r2-rewards.com/" target="_blank" rel="noreferrer noopener">rewards.com</a></sub></figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">NFT staking: how it works</h2>
+
+
+
+<p>Unlocking the value of your NFTs through staking is easier than you think. All you need is a crypto wallet and, well, NFTs. The more the better. Then, choose a protocol or a platform to stake your NFTs in, and wait for the rewards, which might be distributed daily, weekly, or in any other fashion. It really is that simple.</p>
+
+
+
+<p>NFT staking is akin to yield farming, insofar as you lock a certain amount of wealth (NFTs in this case) and receive a certain percentage of rewards based on the amount staked, the period of time that the NFTS will be locked, and other parameters.</p>
+
+
+
+<h2 class="wp-block-heading">All about staking rewards</h2>
+
+
+
+<p>When you invest in traditional financial products (bonds, stocks, mutual funds, etc.), you expect your investment to produce a certain yield. Equally, the ultimate purpose of staking your NFTs is to get a return -a reward.</p>
+
+
+
+<p>But this raises several questions: what kind of rewards do you get? And who issues those rewards?</p>
+
+
+
+<p>If you purchase an investment bond, your reward at the end of the investment term will usually be money, a certain percentage based on the bond&#8217;s performance, length of investment, etc. The staking rewards system works in a similar fashion. You lock your stake in for a certain amount of time and you get rewards. Some platforms might offer a fixed amount, while others might give users different amounts, depending on how many people are participating, and the total size of the rewards pool.</p>
+
+
+
+<p>And who pays these rewards? Well, the platform or protocol where you stake your NFTs. Normally, an algorithm would calculate the due rewards based on specified parameters, and the rewards would be deposited into your account at the agreed intervals. Now, what these rewards actually are, depends on the protocol or platform. Sometimes, you get the platform’s native tokens, other times you get tokens that you can exchange for fiat, and certain protocols issue tokens that can only be used within their own environment (a gaming platform, for example). Always check the terms and conditions when you sign up so you know exactly what rewards you will get, and how often.</p>
+
+
+
+<h2 class="wp-block-heading">Risk versus Reward</h2>
+
+
+
+<p>As with most financial endeavors, returns are never guaranteed and are not entirely without risk. If you put up collateral it means you risk losing that. In the case of a staking system, there are often 2 things to keep in mind. First of all, in most staking systems you will need to purchase a staking key in order to get started. Buying the key can be seen as an entrance fee to the platform and there are often a variety of keys, ranging from cheap and small ones to big and expensive keys. Of course, you hope to earn your investment into the key back but this is never guaranteed.</p>
+
+
+
+<p>Another risk is that the staking platform can get hacked and you may lose your NFTs since they&#8217;re not in your custody anymore. While the right permissions setup (along with responsible project owners) can drastically reduce this risk, hacks are and will always be a risk for platforms holding considerable amounts of value.</p>
+
+
+
+<h2 class="wp-block-heading">Conclusion</h2>
+
+
+
+<p>NFT staking is a subset of the broader decentralized finance (DeFi) ecosystem. It is a relatively new practice in the space, but there already are several NFT management companies that offer staking services, including Zaisan, which launched a <a href="https://r2-rewards.com/" target="_blank" rel="noreferrer noopener">staking platform in collaboration with R2</a>. While there is an inherent risk to using and creating a staking platform, this risk can be minimised by choosing the right partners and using secure setups.</p>
+
+
+
+<p>All in all, staking is just another cool utility of NFTs, which are proving to be rather versatile assets that break new ground almost every day.</p>
+<p>The post <a rel="nofollow" href="https://zaisan.io/nft-staking-explained/">NFT Staking Explained: Generating Value</a> appeared first on <a rel="nofollow" href="https://zaisan.io">Zaisan</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Benefits of Using the WAX Blockchain for NFTs and GameFi</title>
+		<link>https://zaisan.io/benefits-wax-nft-gamefi/</link>
+		
+		<dc:creator><![CDATA[Yannick Slenter]]></dc:creator>
+		<pubDate>Tue, 22 Mar 2022 11:00:44 +0000</pubDate>
+				<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[GameFi]]></category>
+		<category><![CDATA[NFT]]></category>
+		<guid isPermaLink="false">https://zaisan.io/?p=3929</guid>
+
+					<description><![CDATA[<p>Public blockchain technology evolves at a rapid pace. Bitcoin, which officially released in 2009, already feels ancient compared to modern-day blockchain technology when looking at it from a technological perspective. In this article, we take a look at the WAX blockchain and what it has to offer, and look into if it is a suitable [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://zaisan.io/benefits-wax-nft-gamefi/">Benefits of Using the WAX Blockchain for NFTs and GameFi</a> appeared first on <a rel="nofollow" href="https://zaisan.io">Zaisan</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Public blockchain technology evolves at a rapid pace. Bitcoin, which officially released in 2009, already feels ancient compared to modern-day blockchain technology when looking at it from a technological perspective. In this article, we take a look at the <a href="https://on.wax.io/wax-io/" target="_blank" rel="noreferrer noopener">WAX blockchain</a> and what it has to offer, and look into if it is a suitable option for the next generation of <a href="https://zaisan.io/services/nft-project-management">NFT and GameFi projects</a> and platforms. </p>
+
+
+
+<figure class="wp-block-video"><video controls poster="https://zaisan.io/wp-content/uploads/2022/10/benefits-of-web3-gaming.jpg" src="https://5261994.fs1.hubspotusercontent-na1.net/hubfs/5261994/Video/QandA/Q&amp;A%20with%20Adam%20-%20What%20are%20the%20benefits%20of%20web3%20gaming.mp4"></video></figure>
+
+
+
+<h2 class="wp-block-heading">What is WAX?</h2>
+
+
+
+<h3 class="wp-block-heading">The King of NFTs</h3>
+
+
+
+<p>Let’s start with an explanation of the WAX blockchain first. WAX describes itself in the following way: “WAX is the most used and transacted blockchain ecosystem in the world for NFTs, dApps and video games — providing the safest and most convenient way to create, buy, sell and trade both virtual and physical items to anyone, anywhere in the world.</p>
+
+
+
+<p>Known best as “The King of NFTs”, WAX is the leading NFT network and has successfully facilitated the trade of millions of NFTs from partners including Topps (Major League Baseball), Capcom (Street Fighter), Funko, Atari, Sony’s Funimation, and famous films (Princess Bride and SAW), world-renowned entertainers (Deadmau5, Weezer and William Shatner), and many more.”</p>
+
+
+
+<h3 class="wp-block-heading">Resource model and consensus mechanism</h3>
+
+
+
+<p>The blockchain distinguishes itself from other blockchains in various ways. The first and foremost is the resource mechanism. While a transfer of an NFT can cost tens of dollars and take minutes on a network like Ethereum, a similar transaction on WAX is both free and takes only 0.5 seconds.</p>
+
+
+
+<p>This is thanks to the resource model and consensus mechanism the WAX blockchain uses. It uses a Delegated Proof of Stake (DPOS) mechanism, which is a <a href="https://medium.com/hackernoon/different-blockchain-consensus-mechanisms-d19ea6c3bcd6" target="_blank" rel="noreferrer noopener">third generation consensus mechanism</a> in which token holders get to elect their top 21 block producers (miners). Thanks to the high efficiency of the consensus mechanism it is capable of supporting thousands of transactions per second.</p>
+
+
+
+<h3 class="wp-block-heading">Staking model</h3>
+
+
+
+<p>Furthermore, WAX uses a staking model rather than a transaction cost model. On most blockchains, the user pays a fee for each transaction. The size of the fee is often dictated by the kind of transaction and how busy the network is at the time of the transaction. On WAX however, transactions are free. In order to perform transactions on WAX users need to stake some WAXP tokens. By staking their tokens, users are entitled to a certain portion of the available network resources which allows them to execute transactions on the networks. The more WAXP a user stakes, the more transactions they are able to make in a certain time frame (as the resources replenish again with time).</p>
+
+
+
+<h3 class="wp-block-heading">Network governance system</h3>
+
+
+
+<p>WAX also has a comprehensive network governance system called the Office Inspector General (OIG). The OIG monitors and collects data from block producers and provides an objective ranking of each block producer every month based on a comprehensive framework. This makes the block producer positions highly competitive and incentivises block producers to do more than just producing blocks. This has led to a stable infrastructure with a wide array of tools available for both developers and users. But what does all of this mean for WAX’s ability to support NFT and GameFi projects?</p>
+
+
+
+<h2 class="wp-block-heading">Benefits of Using WAX for NFTs</h2>
+
+
+
+<h3 class="wp-block-heading">No transaction costs</h3>
+
+
+
+<p>Let’s start with the benefits of using WAX for NFTs! As is evident from the description of WAX above, there are various benefits to using WAX for NFTs over a blockchain like Ethereum. The most obvious benefit is the lack of transaction cost. This might not seem like a major difference, but this opens up a whole new realm of opportunities for NFT platforms and games. More on this will follow in the GameFi section.</p>
+
+
+
+<h3 class="wp-block-heading">Low cost of creating NFTs</h3>
+
+
+
+<p>Another major benefit is the low cost of creating NFTs. Creating NFTs on a blockchain like Ethereum can cost tens of dollars, whereas the cost of creating an NFT is 151kb of RAM on the blockchain, which at the time of writing corresponds to 0.09 WAX, which has a value of $0.03. This combined with free transactions makes creating and trading NFTs accessible to everyone, and also allows the creation of more interesting concepts which do not have to rely on a high price of the NFT(s) in question.</p>
+
+
+
+<p>One of the most common ways in which NFTs are sold within the WAX ecosystem, for example, are packs. Packs can be seen as a bag of NFTs which can contain a certain amount of NFTs. The NFTs that are in the pack can be decided by the creator. These packs follow a rarity structure, which determines how likely a certain (kind of) NFT is to appear in a pack. A concept like this is possible on WAX since the cost of creating NFTs is very low.</p>
+
+
+
+<h3 class="wp-block-heading">Large and convenient marketplace</h3>
+
+
+
+<p>In addition to an ecosystem that is supportive of NFTs, WAX also hosts one of the biggest, and arguably most convenient NFT marketplaces in the crypto ecosystem, namely <a href="https://wax.atomichub.io/" target="_blank" rel="noreferrer noopener">Atomichub</a>. By having well-defined NFT standards and a swift and scalable network, Atomichub is able to support the instant selling and trading of NFTs. And in addition to this, they have an intuitive NFT creator which allows anyone with a WAX account to create an NFT in minutes at no additional cost. Additionally, tools like Neftyblocks allow the creation of packs for free as well, providing creators with all the tools they need to get started.</p>
+
+
+
+<h3 class="wp-block-heading">A blockchain on the rise</h3>
+
+
+
+<p>While there are many benefits to using WAX for NFTs, there’s also a downside to consider. The NFT ecosystem on a blockchain like Ethereum may not be as technologically advanced, the whole ecosystem surrounding it is bigger and more mature. However, WAX has been on the rise and has a fast-growing amount of projects being built on top of it.</p>
+
+
+
+<h2 class="wp-block-heading">Benefits of Using WAX for GameFi</h2>
+
+
+
+<h3 class="wp-block-heading">Support thousands of users</h3>
+
+
+
+<p>But WAX is not just for NFTs, it’s proven to be a very viable place for the next generation of blockchain games as well. The fee-less transaction model along with a highly scalable network has allowed the creation of games that are able to support thousands of users without issue, and this also shows in the <a href="https://dappradar.com/rankings" target="_blank" rel="noreferrer noopener">Dapp ranking by DappRadar</a>, with many of the top games running on WAX.</p>
+
+
+
+<h3 class="wp-block-heading">Leveraging NFTs in-game</h3>
+
+
+
+<p>In addition to its ability to handle a high amount of transactions, the relatively cheap NFTs also provide a lot of opportunities for games. Games are leveraging this by including NFTs in a lot of aspects of their game, using them for governance, battles, and more. Some developers are even taking their game to the next level by <a href="https://zaisan.io/solutions/bridge">deploying their game on multiple blockchains</a>, allowing them to deploy the most demanding aspects of their game on the WAX blockchain, while also taking advantage of the user bases on other blockchains.</p>
+
+
+
+<h3 class="wp-block-heading">Trusted marketplace</h3>
+
+
+
+<p>Lastly, the aforementioned marketplace, Atomichub, provides a trusted and convenient place for players of the games to buy, trade, and sell their in-game assets. The marketplace also uses a verification system, protecting users against counterfeit NFTs and allowing developers to add credibility to their project.</p>
+
+
+
+<h2 class="wp-block-heading">Conclusion</h2>
+
+
+
+<p>WAX is a solid blockchain targeted at the NFT and gaming sector and has been successful so far in creating an environment in which these kinds of projects can flourish. The transaction model and its ability to handle high volumes of transactions make it one of the most viable blockchains for any NFT and gaming project. Furthermore, the ecosystem surrounding the blockchain provides another layer of tools and marketplaces which make everything more accessible.</p>
+<p>The post <a rel="nofollow" href="https://zaisan.io/benefits-wax-nft-gamefi/">Benefits of Using the WAX Blockchain for NFTs and GameFi</a> appeared first on <a rel="nofollow" href="https://zaisan.io">Zaisan</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://5261994.fs1.hubspotusercontent-na1.net/hubfs/5261994/Video/QandA/Q&#038;A%20with%20Adam%20-%20What%20are%20the%20benefits%20of%20web3%20gaming.mp4" length="35741364" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>Deep Dive into Cross-Chain Bridges and the Case of Alien Worlds</title>
+		<link>https://zaisan.io/alien-worlds-cross-chain-bridge/</link>
+		
+		<dc:creator><![CDATA[Yannick Slenter]]></dc:creator>
+		<pubDate>Mon, 07 Mar 2022 09:35:28 +0000</pubDate>
+				<category><![CDATA[GameFi]]></category>
+		<guid isPermaLink="false">https://zaisan.io/?p=3534</guid>
+
+					<description><![CDATA[<p>The blockchain world moves at an incredible speed with technological breakthroughs being the norm instead of a once-in-a-lifetime event. Therefore it goes without saying that the applications being built on top of these blockchains are moving very fast as well. While blockchain started as a novel technology only being used in Bitcoin, the development of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://zaisan.io/alien-worlds-cross-chain-bridge/">Deep Dive into Cross-Chain Bridges and the Case of Alien Worlds</a> appeared first on <a rel="nofollow" href="https://zaisan.io">Zaisan</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The blockchain world moves at an incredible speed with technological breakthroughs being the norm instead of a once-in-a-lifetime event. Therefore it goes without saying that the applications being built on top of these blockchains are moving very fast as well. While blockchain started as a novel technology only being used in Bitcoin, the development of the technology has led to the adoption in almost every industry and this has created a case for blockchains targeted at specific use-cases and industries, in order to better serve specific needs. But this has also led to these blockchains being siloed off from each other. Would it be possible to connect these blockchains?</p>
+
+
+
+<p>Europechain is a GDPR supporting enterprise blockchain platform managed and governed by experienced validators registered in the European Union.</p>
+
+
+
+<h2 class="wp-block-heading">Connecting blockchains: the multi-chain future</h2>
+
+
+
+<p>Imagine a group of small islands dotted around an area of an ocean. Each island has a small settlement of people, going about their business and living their lives as best they know how. But there&#8217;s a problem. One island has wood, but little food. They can build rudimentary huts but can scarcely eat. Their closest island has plenty of food though, but no wood, so they lack shelter. A third island has both wood and food, but no hay for their animals. Another island is brimming with hay, but little coal to light fires. The island with the wood does have good coal reserves though. Then, one day, someone has an idea. Why not build bridges connecting all the islands, so all the islanders can share resources! Soon, wood, food, coal, and hay is moving across the islands, and islanders&#8217; business grows tenfold.</p>
+
+
+
+<p>Now, imagine each of those islands is a blockchain. Each blockchain hosts a set of tokenised assets, which had hitherto remained confined to their blockchain. Why not build bridges across the blockchains so assets can be shared, just like the islanders did!</p>
+
+
+
+<p>By connecting these different blockchains with different protocols, tokens, and use cases it is possible to serve a wider range of companies and people with different needs and requirements. Every blockchain has a couple of aspects in which it excels, and by connecting these blockchains with each other through cross-chain bridges it is possible to, for example, deploy your application on a blockchain that is highly scalable and supports a lot of transactions, release your token on a mature platform which has a lot of funding available, and to create a bridge with another blockchain which has a specific feature which is useful for your platform.</p>
+
+
+
+<h2 class="wp-block-heading">An easy solution for all problems?</h2>
+
+
+
+<p>While the above description makes it seem like a solution for a lot of problems companies face when using blockchain technology, this is unfortunately not the reality. Similar to building bridges in the physical world, it takes time and careful planning and preparation in order to build a bridge that can handle all the traffic and ensures the safety of the funds locked up in the bridge.</p>
+
+
+
+<p>(Public) blockchains are very hard to almost impossible to hack as a result of how they are set up, but these bridges do not have the same kind of security. Just last year on Polygon, an Ethereum sidechain that aims to make Ethereum apps more scalable, <a href="https://cryptobriefing.com/polygon-swerves-850-million-hack-ethereum-bridge/" target="_blank" rel="noreferrer noopener">a critical bug was discovered</a><a href="https://cryptobriefing.com/polygon-swerves-850-million-hack-ethereum-bridge/"> </a>which put $850M at risk. These bridges are a critical, yet relatively weak link in any multi-chain environment.</p>
+
+
+
+<p>In addition to the security risks, it is also quite costly to build robust bridges between blockchains. A secure bridge capable of holding millions of dollars worth of funds requires a scalable and decentralised infrastructure in addition to specialised knowledge in order to deploy and maintain it.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">Building bridges efficiently</h2>
+
+
+
+<p>While the use cases for these bridges, as well as the challenges that arise when deploying these bridges, are all clear, it makes one wonder if there isn’t a more efficient solution. Bridges in the real world are built and maintained by teams of specialised engineers, so why shouldn’t digital bridges be built and maintained by industry experts?</p>
+
+
+
+<p>Zaisan offers a wide range of blockchain solutions, including various <a href="https://zaisan.io/solutions/bridge">cross-chain bridge hosting related services</a>. The benefits of going with a blockchain service provider like Zaisan are numerous and vary depending on the needs of the platform/application.</p>
+
+
+
+<p>For newcomers to the ecosystem, it provides a simple and cheap entry to the multi-chain world, allowing them to experiment with all the possibilities and opportunities that come with having an application on multiple blockchains. And for industry-leading applications and platforms, it provides a robust and secure bridge that is capable of supporting the multi-chain needs of their specific application or platform.</p>
+
+
+
+<p>In addition to the above benefits, it ensures the bridges are built with the highest diligence and standards and are being monitored and maintained around the clock to prevent any unwanted situations. Furthermore, the decentralised infrastructure capable of supporting up to 5 oracles ensures that there is no single point of failure, yet again adding to the robustness and security of the bridge. Besides this, the bridge remains online even if the platform or application goes down. Lastly, more advanced features such as multi-signature backups or frontend development of the bridge can be offered.</p>
+
+
+
+<h2 class="wp-block-heading">The case of Alien Worlds</h2>
+
+
+
+<p>Now onto the case of Alien Worlds. <a href="https://alienworlds.io/" target="_blank" rel="noreferrer noopener">Alien Worlds is one of the biggest blockchain games</a> in the world with thousands of players every day. The game features a wide ecosystem that is powered by their main token, Trilium (TLM).&nbsp;</p>
+
+
+
+<p>In short, Alien Worlds represents a metaverse powered by NFTs. The NFTs inside the Alien Worlds metaverse are used for a variety of features, such as competing in battles, completing quests inside the game, and to mine TLM.</p>
+
+
+
+<p>TLM can also be used for a variety of features, such as planet governance, in which players get to vote on important decisions on the various Alien World planets, as well as buying in-game items, and staking, which allows users to temporarily lock up their tokens on a specific Alien Worlds planet to get specific rewards. A comprehensive overview of the game and its features can be found <a href="https://research.binance.com/en/projects/alien-worlds" target="_blank" rel="noreferrer noopener">here</a>.</p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://zaisan.io/wp-content/uploads/2022/03/alien-world-technical-architecture.jpg"><img decoding="async" src="https://zaisan.io/wp-content/uploads/2022/03/alien-world-technical-architecture.jpg" alt="Alien Worlds technical architecture" class="wp-image-3537"/></a><figcaption class="wp-element-caption">Credit: Alien Worlds</figcaption></figure>
+
+
+
+<p>While the game originated on the WAX blockchain, it quickly took the opportunity to expand to different blockchains for various reasons. The platform itself (and its smart contracts), as well as the majority of the NFTs, and the user accounts run on the WAX blockchain, as the WAX blockchain has free transactions, is very scalable, and has a user-friendly wallet.&nbsp;</p>
+
+
+
+<p>Alien Worlds uses the Ethereum blockchain to run various smart contracts related to their token vesting mechanism, as Ethereum has high amounts of capital available and is commonly associated with DeFi related projects and initiatives. In addition to this, Ethereum has a big community and a wide range of (decentralised) exchanges which Alien Worlds can now access more easily as well.&nbsp;</p>
+
+
+
+<p>Lastly, Alien Worlds uses the Binance blockchain to run various smart contracts related to the Token Mission Staking aspect of their games. In addition to this, they use the Binance blockchain to mint NFTs and similarly to Ethereum, to access a new (major) community and a new range of (decentralised) exchanges and applications.</p>
+
+
+
+<h2 class="wp-block-heading">The Alien Worlds Bridge set-up</h2>
+
+
+
+<p>Now it is clear what Alien Worlds does it’s interesting to dive into the specific bridge set-up they use, and some statistics. As described above, Alien Worlds is spread out over 3 different blockchains, namely the WAX, Ethereum, and Binance blockchain. Therefore it is logical that Alien Worlds has a bridge between WAX and Ethereum and WAX and the Binance blockchain. However, there is no bridge between Ethereum and Binance, as most transactions and trading take place on WAX, making such a bridge superfluous.</p>
+
+
+
+<figure class="wp-block-image size-full lightbox"><a href="https://zaisan.io/wp-content/uploads/2022/03/alien-worlds-teleport-bridge-service.jpg"><img decoding="async" src="https://zaisan.io/wp-content/uploads/2022/03/alien-worlds-teleport-bridge-service.jpg" alt="Alien Worlds Teleport Bridging service" class="wp-image-3536"/></a><figcaption class="wp-element-caption">Credit: Alien Worlds</figcaption></figure>
+
+
+
+<p>In order to guarantee the uptime and security of these bridges, Alien Worlds uses a decentralised 3 oracle set-up, which makes the bridges incredibly secure and robust, and guarantees a 99.99% uptime.</p>
+
+
+
+<p>Players can access the Alien Worlds bridges through a front-end on the platform/game itself, where they can conveniently swap their TLM across the various chains. However, using a bridge and fully understanding how it works can still be a challenging task for the average player, which is why the Alien Worlds team has provided <a href="https://alienworlds.zendesk.com/hc/en-us/articles/1500012518322-Teleport-Update-Tokens-Travel-Throughout-the-Metaverse" target="_blank" rel="noreferrer noopener">comprehensive documentation</a> on how you can use the bridge, frequently asked questions, common issues, and more.</p>
+
+
+
+<p>So far the Alien Worlds bridges have processed over 100.000 transactions and have millions of dollars worth of Trilium locked up in them in a little less than a year. This proves that the bridges are robust, as well as a core feature of the game.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">Conclusion</h2>
+
+
+
+<p>It is safe to conclude that cross-chain bridges create a lot of opportunities for a lot of platforms and applications, allowing them to access new communities, technologies, and more. However, deploying and maintaining these bridges can be a tricky and costly task. Blockchain service providers such as Zaisan can help in this regard and <a href="https://zaisan.io/solutions/bridge">provide tailored cross-chain bridge hosting services</a> that suit all platforms, ranging from starters to industry leaders. </p>
+
+
+
+<p>In the case of Alien Worlds, this has allowed them to expand their game to both the Binance and Ethereum blockchain, giving them the opportunity to make their game more interesting and to access an array of blockchain-specific features.</p>
+<p>The post <a rel="nofollow" href="https://zaisan.io/alien-worlds-cross-chain-bridge/">Deep Dive into Cross-Chain Bridges and the Case of Alien Worlds</a> appeared first on <a rel="nofollow" href="https://zaisan.io">Zaisan</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Expanding GameFi and DeFi Environments with Cross-chain Bridging</title>
+		<link>https://zaisan.io/cross-chain-bridging-gamefi-defi/</link>
+		
+		<dc:creator><![CDATA[Yannick Slenter]]></dc:creator>
+		<pubDate>Wed, 02 Mar 2022 18:56:41 +0000</pubDate>
+				<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[GameFi]]></category>
+		<guid isPermaLink="false">https://zaisan.io/?p=3438</guid>
+
+					<description><![CDATA[<p>Imagine a group of small islands dotted around an area of an ocean. Each island has a small settlement of people, going about their business and living their lives as best they know how. But there&#8217;s a problem. One island has wood, but little food. They can build rudimentary huts but can scarcely eat. Their [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://zaisan.io/cross-chain-bridging-gamefi-defi/">Expanding GameFi and DeFi Environments with Cross-chain Bridging</a> appeared first on <a rel="nofollow" href="https://zaisan.io">Zaisan</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Imagine a group of small islands dotted around an area of an ocean. Each island has a small settlement of people, going about their business and living their lives as best they know how. But there&#8217;s a problem. One island has wood, but little food. They can build rudimentary huts but can scarcely eat. Their closest island has plenty of food though, but no wood, so they lack shelter. A third island has both wood and food, but no hay for their animals. Another island is brimming with hay, but little coal to light fires. The island with the wood does have good coal reserves though. Then, one day, someone has an idea. Why not build bridges connecting all the islands, so all the islanders can share resources! Soon, wood, food, coal, and hay is moving across the islands, and islanders&#8217; business grows tenfold.</p>
+
+
+
+<p>Now, imagine each of those islands is a blockchain. Each blockchain hosts a set of tokenised assets, which had hitherto remained confined to their blockchain. Why not build bridges across the blockchains so assets can be shared, just like the islanders did!</p>
+
+
+
+<h2 class="wp-block-heading">Cross-chain bridges: a simple solution to a big problem</h2>
+
+
+
+<figure class="wp-block-video"><video controls poster="https://zaisan.io/wp-content/uploads/2022/03/what-is-cross-chain-bridging.jpg" src="https://5261994.fs1.hubspotusercontent-na1.net/hubfs/5261994/Video/QandA/Q&amp;A%20with%20Adam%20-%20What%20is%20cross-chain%20bridging.mp4"></video></figure>
+
+
+
+<p>In computing environments, some terms can be rather obscure and non-descript. Not the case here. A cross-chain bridge does exactly what it says. It is a mechanism to enable the transfer of assets back and forth between two or more chains. Those assets can be tokens, cryptocurrencies, or any other tokenised assets hosted on the chains.</p>
+
+
+
+<p>You might be wondering what sort of wizardry is this. And furthermore, you might question how can it be possible to move assets between two chains whose protocols, rules, etc. might be completely different? These are valid questions, and here&#8217;s the answer. The bridge acts as a neutral zone (a no man&#8217;s land of sorts) where the switch occurs.&nbsp;</p>
+
+
+
+<p>An example: two blockchain games, one hosted on an Ethereum chain, the second hosted on WAX. Ethereum uses a proof-of-work consensus protocol, while WAX uses a proof-of-stake one, each with its own set of rules. And each of these games has some cool in-game assets, maps, etc. And each game world features a thriving game economy and has something that the other gaming environment lacks (remember the islanders?) Why not connect the two chains with a bridge and enable asset swapping, so that both gaming worlds (and their in-game economies) expand and grow?</p>
+
+
+
+<h2 class="wp-block-heading">Exponential growth for GameFi and DeFi environments</h2>
+
+
+
+<p>Blockchain has yielded much disruption and innovation throughout its relatively short lifespan, and the <a href="https://zaisan.io/alien-worlds-cross-chain-bridge/">future</a> looks just as innovative and bright.&nbsp;</p>
+
+
+
+<p>For some time now, this technology has been associated with decentralised finance (DeFi). That is, the provision of financial instruments without reliance on centralised intermediaries, such as banks, credit unions, or brokerages. The marriage between blockchain and DeFi has been a successful one.<a href="https://www.statista.com/statistics/1237821/defi-market-size-value-crypto-locked-usd/"> </a><a href="https://www.statista.com/statistics/1237821/defi-market-size-value-crypto-locked-usd/" target="_blank" rel="noreferrer noopener">According to Statista</a><a href="https://www.statista.com/statistics/1237821/defi-market-size-value-crypto-locked-usd/">,</a> there&#8217;s currently billions held in DeFi environments.&nbsp;&nbsp;</p>
+
+
+
+<p>But in more recent times, blockchain is spreading its area of influence to gaming in the form of game finance (GameFi), a relatively new concept that combines cryptocurrencies, non-fungible tokens (NFTs), and other tokenised assets to create a gaming environment where players can play, trade, and earn.</p>
+
+
+
+<p>The mechanics underlying GameFi are relatively simple. <a href="https://zaisan.io/nft-games-tokenising-game-digital-assets/">In-game assets are distributed in NFT form</a>, which guarantees ownership. This is key, as it enables the players to trade these assets as they see fit, sell them to other players, etc. And this is where cross-chain bridges come in. These two-way paths enable these assets to be moved from one chain to another. By doing this, the player pool grows exponentially, as players can participate in multiple gaming environments.</p>
+
+
+
+<p>The same applies to DeFi environments, albeit without the gaming part. Users of different blockchains can have their assets exchanged on the bridge so they can be used on another blockchain. This is sometimes called &#8216;cross-chain swap.&#8217;</p>
+
+
+
+<p>The benefits of multi-chain bridging are clear. The islanders knew it, and now you know too. Scalability, portability, and a massively expanded user or player pool.</p>
+
+
+
+<p><strong>Cross-chain bridging with Zaisan</strong></p>
+
+
+
+<p>Zaisan is a multi-discipline blockchain services provider, including<a href="https://zaisan.io/solutions/bridge"> cross-chain bridging hosting</a>. Among many other features, Zaisan offers the possibility of swapping tokens between Binance Smart Chain (BSC), WAX, and Ethereum.</p>
+<p>The post <a rel="nofollow" href="https://zaisan.io/cross-chain-bridging-gamefi-defi/">Expanding GameFi and DeFi Environments with Cross-chain Bridging</a> appeared first on <a rel="nofollow" href="https://zaisan.io">Zaisan</a>.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://5261994.fs1.hubspotusercontent-na1.net/hubfs/5261994/Video/QandA/Q&#038;A%20with%20Adam%20-%20What%20is%20cross-chain%20bridging.mp4" length="19267101" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/" 
+>
+
+<channel>
+	<title>GameFi &#8211; CoinCu News</title>
+	<atom:link href="https://coincu.com/c/gamefi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://coincu.com</link>
+	<description>Coin and Crypto Infomation Update</description>
+	<lastBuildDate>Tue, 25 Jul 2023 17:53:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://coincu.com/wp-content/uploads/2022/05/cropped-Screen-Shot-2022-05-31-at-14.56.39-32x32.png</url>
+	<title>GameFi &#8211; CoinCu News</title>
+	<link>https://coincu.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Aurory Sets The Stage For Seamless Web3 Gaming With New Integration On Arbitrum</title>
+		<link>https://coincu.com/205903-aurory-sets-the-stage-for-seamless-web3-gaming/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Tue, 25 Jul 2023 17:41:07 +0000</pubDate>
+				<category><![CDATA[GameFi]]></category>
+		<category><![CDATA[Arbitrum]]></category>
+		<category><![CDATA[Aurory]]></category>
+		<category><![CDATA[Web3]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=205903</guid>
+
+					<description><![CDATA[Aurory, a renowned web3 gaming company offering a universe of interoperable games, has taken a significant step towards its multi-platform vision.<p class="has-text-align-right"><a href="https://coincu.com/205903-aurory-sets-the-stage-for-seamless-web3-gaming/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Web3 gaming company Aurory announces integration with Arbitrum, Ethereum&#8217;s Layer 2 scaling solution, enabling digital asset existence on both Arbitrum and Solana blockchains.</em></li>
+
+
+
+<li><em>Players can now use SyncSpace technology to deposit and withdraw gaming assets between Solana and Arbitrum, offering a seamless cross-chain experience.</em></li>
+
+
+
+<li><em>This significant milestone advances Aurory&#8217;s multi-platform vision and enhances the utility of in-game assets.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Aurory, a renowned web3 gaming company offering a universe of interoperable games, has taken a significant step towards its multi-platform vision. The company recently <a href="https://www.prnewswire.com/news-releases/aurory-franchise-enables-cross-chain-operability-with-arbitrum-integration-301885313.html" target="_blank" rel="noreferrer noopener">announced</a> its integration with <a href="https://coincu.com/204281-arbitrum-foundation-grants-phase-1-targets-apps/" target="_blank" rel="noreferrer noopener">Arbitrum</a>, the leading Layer 2 scaling solution for Ethereum, opening up new possibilities for digital asset acquisition and management within its gaming ecosystem.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1843.png"><img decoding="async" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-1843-1024x576.png" alt="Aurory Sets The Stage For Seamless Web3 Gaming With New Integration On Arbitrum" class="wp-image-205906" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1843-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1843-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1843-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1843-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1843-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-1843.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Aurory Sets The Stage For Seamless Web3 Gaming With New Integration On Arbitrum 1"></a></figure></div>
+
+
+<p>While Aurory&#8217;s free-to-play games don&#8217;t require wallet connections, the company has enabled on-chain Aurory assets to exist on both Arbitrum and Solana, two prominent blockchain ecosystems within the web3 gaming realm. These assets encompass AURY tokens, playable NFT characters, skins, and Neftie eggs, all of which serve or will serve a utility in Aurory&#8217;s flagship games, Adventures (JRPG) and Tactics (Timeline-Based Battle Arena).</p>
+
+
+
+<p>SyncSpace technology plays a pivotal role in making this integration possible. It is a proprietary hybrid on-chain/off-chain inventory management system specifically designed by Aurory. Originally aimed at reducing friction for new users entering the Aurory gaming universe without the need for wallet connections, SyncSpace also allows them to earn in-game items that can later be minted on-chain when withdrawn to an external wallet. Moreover, users can deposit on-chain items into SyncSpace, facilitating seamless gameplay, trading, Neftie egg hatching, Aurorian expeditions, and more without the constant need for blockchain transaction approvals.</p>
+
+
+
+<p>By leveraging SyncSpace, Aurory now empowers gamers to deposit their assets from the Solana network into SyncSpace and withdraw them on the Arbitrum network and vice versa, ensuring a seamless cross-chain experience. Notably, this innovation also opens the door for Aurory games to integrate with traditional gaming platforms that impose stricter regulations on incorporating blockchain elements.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/aurorybanner.jpg"><img decoding="async" loading="lazy" width="1024" height="559" src="https://coincu.com/wp-content/uploads/2023/07/aurorybanner-1024x559.jpg" alt="Aurory Sets The Stage For Seamless Web3 Gaming With New Integration On Arbitrum" class="wp-image-205908" srcset="https://coincu.com/wp-content/uploads/2023/07/aurorybanner-1024x559.jpg 1024w, https://coincu.com/wp-content/uploads/2023/07/aurorybanner-300x164.jpg 300w, https://coincu.com/wp-content/uploads/2023/07/aurorybanner-768x419.jpg 768w, https://coincu.com/wp-content/uploads/2023/07/aurorybanner-1536x838.jpg 1536w, https://coincu.com/wp-content/uploads/2023/07/aurorybanner-750x409.jpg 750w, https://coincu.com/wp-content/uploads/2023/07/aurorybanner-1140x622.jpg 1140w, https://coincu.com/wp-content/uploads/2023/07/aurorybanner.jpg 1596w" sizes="(max-width: 1024px) 100vw, 1024px" title="Aurory Sets The Stage For Seamless Web3 Gaming With New Integration On Arbitrum 2"></a></figure></div>
+
+
+<p>The integration with Arbitrum comes at a time when the network is making substantial strides in the web3 gaming industry. During the first quarter of 2023, Arbitrum witnessed a staggering 125% growth in active blockchain gaming users, thanks to its cutting-edge technological advancements in scaling performance. The Arbitrum Nova scaling solution utilizes &#8220;AnyTrust&#8221; technology, processing data off-chain to enable low-cost transactions, which is particularly beneficial for game developers handling high transaction volumes.</p>
+
+
+
+<p>Arbitrum has been a hotbed of activity lately, attracting prominent projects in the blockchain gaming space. Notably, Xai, a gaming-focused permissionless Layer 3 blockchain, revealed plans to launch on the network later this year. Additionally, The Graph, a leading indexing and query protocol for organizing blockchain data, recently commenced its final phase of migration to Arbitrum. Moreover, Cega expanded its structured DeFi investment product to the Arbitrum ecosystem.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-1844-1024x575.png"><img decoding="async" loading="lazy" width="1024" height="575" src="https://coincu.com/wp-content/uploads/2023/07/image-1844-1024x575.png" alt="Aurory Sets The Stage For Seamless Web3 Gaming With New Integration On Arbitrum" class="wp-image-205909" srcset="https://coincu.com/wp-content/uploads/2023/07/image-1844-1024x575.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-1844-300x168.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-1844-768x431.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-1844-1536x862.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-1844-2048x1149.png 2048w, https://coincu.com/wp-content/uploads/2023/07/image-1844-750x421.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-1844-1140x640.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Aurory Sets The Stage For Seamless Web3 Gaming With New Integration On Arbitrum 3"></a></figure></div>
+
+
+<p>As Aurory&#8217;s integration with Arbitrum unfolds, players can now choose to have their gaming assets reside on the network, including Aury tokens, playable NFT characters, skins, and Neftie eggs. These assets hold significant value within Aurory&#8217;s flagship games, Adventures, and Tactics, enhancing the gaming experience for users.</p>
+
+
+
+<p>The collaboration between Aurory and Arbitrum marks a notable milestone in the web3 gaming industry, propelling cross-chain gaming capabilities to new heights. With these advancements, players can expect an enhanced and seamless gaming experience while further solidifying Ethereum&#8217;s position as a leading blockchain platform for gaming innovation.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/205903-aurory-sets-the-stage-for-seamless-web3-gaming/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Final-Thumb-34-1-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
+		<item>
+		<title>Binance Labs Committed To Invest $15 Million In Web3 Game Publisher Xterio</title>
+		<link>https://coincu.com/202239-binance-labs-invest-15m-web3-game-xterio/</link>
+		
+		<dc:creator><![CDATA[Foxy]]></dc:creator>
+		<pubDate>Thu, 13 Jul 2023 02:55:56 +0000</pubDate>
+				<category><![CDATA[GameFi]]></category>
+		<category><![CDATA[# Cryptocurrencies]]></category>
+		<category><![CDATA[#Markets]]></category>
+		<category><![CDATA[Binance]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[crypto]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=202239</guid>
+
+					<description><![CDATA[Binance Labs has committed to investing $15 million in Xterio and publisher that connects online and free-to-play games to games.<p class="has-text-align-right"><a href="https://coincu.com/202239-binance-labs-invest-15m-web3-game-xterio/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Binance Labs&#8217; long-term strategy with web game Xterio with $15 million investment</em></li>
+
+
+
+<li><em>Xterio will use the funds raised to accelerate the development of Xterio-incubated games and integrate artificial intelligence (AI) in its technology development.</em></li>
+
+
+
+<li><em>This substantial capital commitment confirms Binance Labs&#8217; long-term vision for Web3 gaming and recognizes Xterio as the leading Web3 gaming platform.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong><a href="https://coincu.com/199249-binance-labs-incubation-season-6-starts/" target="_blank" rel="noreferrer noopener">Binance Labs</a>, the venture capital and incubator arm of Binance, <a href="https://www.binance.com/en/blog/ecosystem/binance-labs-commits-$15-million-into-xterio-ecosystem-to-expand-its-game-development-capabilities-in-ai-and-web3-1674838563596230735" target="_blank" rel="noreferrer noopener">has committed </a>to investing $15 million in Xterio, the leading Web3 gaming platform, and publisher that connects online and free-to-play games to games. Internal and third-party players are currently in development. The company plans to use this investment for further technology and game development, including AI integration and the launch of its tokens.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-783.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-783-1024x576.png" alt="Binance Labs Committed To Invest $15 Million In Web3 Game Publisher Xterio" class="wp-image-202252" srcset="https://coincu.com/wp-content/uploads/2023/07/image-783-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-783-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-783-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-783-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/07/image-783-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-783-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-783.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Labs Committed To Invest $15 Million In Web3 Game Publisher Xterio 4"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Xterio Foundation is founded in Switzerland with a Council and a group of technology and entertainment leaders with an in-depth free game experience. Its mission is to develop, publish and distribute high-quality Web2 and Web3 games and interactive entertainment.</p>
+
+
+
+<p>The founding executive team includes seasoned leaders from FunPlus, Electronic Arts, Activision Blizzard, Krafton, Jam City, and NetEase, providing expertise in developing and publishing social games High-grossing free-to-play on PC and mobile devices.</p>
+
+
+
+<p>&#8220;This substantial capital commitment confirms Binance Labs&#8217; long-term vision for Web3 gaming and recognizes Xterio as a leading, globally influential Web3 gaming platform,&#8221; Michael Tong, co-founder of Xterio, said.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-784.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://coincu.com/wp-content/uploads/2023/07/image-784-1024x576.png" alt="Binance Labs Committed To Invest $15 Million In Web3 Game Publisher Xterio" class="wp-image-202254" srcset="https://coincu.com/wp-content/uploads/2023/07/image-784-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-784-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-784-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-784-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-784-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-784.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance Labs Committed To Invest $15 Million In Web3 Game Publisher Xterio 5"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Xterio plans to use the investment to expand its AI capabilities, develop AI-driven interactive experiences, and solve AI-origin issues in Web3. Currently, Xterio is developing an AI toolkit that creates production-quality, style-appropriate 2D and 3D content while providing an &#8220;emotional engine for artificial intelligence&#8221;.</p>
+
+
+
+<p>Binance Labs defines Web3 as the next generation of the Internet, with interconnected digital information in a decentralized way and publicly owned by users, enabled by blockchain technology. The platform has always affirmed that it will give its best support to help startups have the opportunity to develop.</p>
+
+
+
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/202239-binance-labs-invest-15m-web3-game-xterio/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/foxy-2023-6-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>StepN Creator Unveils Gas Hero, A New Web3 MMO Game</title>
+		<link>https://coincu.com/201515-stepn-creator-unveils-gas-hero/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Tue, 11 Jul 2023 03:47:57 +0000</pubDate>
+				<category><![CDATA[GameFi]]></category>
+		<category><![CDATA[DOOAR]]></category>
+		<category><![CDATA[Find Satoshi Lab]]></category>
+		<category><![CDATA[FSL]]></category>
+		<category><![CDATA[GAME]]></category>
+		<category><![CDATA[Genesis Hero NFT]]></category>
+		<category><![CDATA[MOOAR]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[StepN]]></category>
+		<category><![CDATA[Web3]]></category>
+		<category><![CDATA[Web3 MMO Game]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=201515</guid>
+
+					<description><![CDATA[Find Satoshi Lab introduces Gas Hero, a Web3 MMO game set in a post-apocalyptic world.<p class="has-text-align-right"><a href="https://coincu.com/201515-stepn-creator-unveils-gas-hero/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Find Satoshi Lab introduces Gas Hero, a Web3 MMO game set in a post-apocalyptic world.</em></li>
+
+
+
+<li><em>&#8220;Shape the Legends, Share the Glory&#8221; competition launched, allowing community members to design Genesis Heroes NFTs and win creator royalties and GMT tokens.</em></li>
+
+
+
+<li><em>Gas Hero emphasizes social interaction, refined user experience, and player involvement before the game&#8217;s release, signaling a shift in Web3 gaming.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Web3 development studio Find Satoshi Lab (FSL), renowned for creating popular projects like StepN, MOOAR NFT marketplace, and DOOAR decentralized trading platform, has <a href="https://twitter.com/GasHeroOfficial/status/1678403803375083521" target="_blank" rel="noreferrer noopener">revealed</a> its latest creation: Gas Hero, a highly anticipated massively multiplayer online (MMO) game.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://coincu.com/wp-content/uploads/2023/07/image-611.png"><img decoding="async" loading="lazy" width="800" height="450" src="https://coincu.com/wp-content/uploads/2023/07/image-611.png" alt="StepN Creator Unveils Gas Hero, A New Web3 MMO Game" class="wp-image-201530" srcset="https://coincu.com/wp-content/uploads/2023/07/image-611.png 800w, https://coincu.com/wp-content/uploads/2023/07/image-611-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-611-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-611-750x422.png 750w" sizes="(max-width: 800px) 100vw, 800px" title="StepN Creator Unveils Gas Hero, A New Web3 MMO Game 6"></a></figure></div>
+
+
+<p>To mark the game&#8217;s upcoming release, <a href="https://coincu.com/191213-find-satoshi-lab-to-launch-ai-nft-generator/" target="_blank" rel="noreferrer noopener">FSL</a> has launched the &#8220;Shape the Legends, Share the Glory&#8221; competition, inviting community members to design their own versions of the game&#8217;s NFTs, known as Genesis Heroes. The competition offers participants a chance to win two percent creator royalty fees and a portion of the game&#8217;s utility token, GMT.</p>
+
+
+
+<p>In each phase of the competition, 20 winners will be selected for each codename, resulting in a total of 320 winners per phase and 960 winners overall. Prizes include Genesis Hero NFT trading royalties, GMT tokens, and a co-branded Gas Hero and FSL t-shirt. The winning designs will also be prominently featured on the official Gas Hero website.</p>
+
+
+
+<p>This competition marks a significant shift in Web3 gaming, emphasizing the active involvement of players even before the game&#8217;s official launch.</p>
+
+
+
+<p>While details about Gas Hero are still largely under wraps, the game&#8217;s name does not refer to the crypto industry term &#8220;gas,&#8221; which typically denotes network transaction fees. Instead, Gas Hero is set to be a strategic and socially-oriented Web3 game, immersing players in a post-apocalyptic world where they construct virtual bases and engage in battles against other players.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/F0MHUe4XsAEVKlO-1024x1024.png"><img decoding="async" loading="lazy" width="1024" height="1024" src="https://coincu.com/wp-content/uploads/2023/07/F0MHUe4XsAEVKlO-1024x1024.png" alt="StepN Creator Unveils Gas Hero, A New Web3 MMO Game" class="wp-image-201529" srcset="https://coincu.com/wp-content/uploads/2023/07/F0MHUe4XsAEVKlO-1024x1024.png 1024w, https://coincu.com/wp-content/uploads/2023/07/F0MHUe4XsAEVKlO-300x300.png 300w, https://coincu.com/wp-content/uploads/2023/07/F0MHUe4XsAEVKlO-150x150.png 150w, https://coincu.com/wp-content/uploads/2023/07/F0MHUe4XsAEVKlO-768x768.png 768w, https://coincu.com/wp-content/uploads/2023/07/F0MHUe4XsAEVKlO-75x75.png 75w, https://coincu.com/wp-content/uploads/2023/07/F0MHUe4XsAEVKlO-350x350.png 350w, https://coincu.com/wp-content/uploads/2023/07/F0MHUe4XsAEVKlO-750x750.png 750w, https://coincu.com/wp-content/uploads/2023/07/F0MHUe4XsAEVKlO.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" title="StepN Creator Unveils Gas Hero, A New Web3 MMO Game 7"></a></figure></div>
+
+
+<p>Mitali Manghani, a representative from FSL, highlighted the social aspects of the game, noting that players will be incentivized to interact with one another to gain advantages such as power, fame, and monetary rewards. FSL places great importance on refining the game&#8217;s user experience (UX) and user interface (UI) to ensure engaging and immersive gameplay.</p>
+
+
+
+<p>Gas Hero follows the success of FSL&#8217;s previous gaming venture, <a href="https://coincu.com/181437-binance-futures-delisting-stepn-near/" target="_blank" rel="noreferrer noopener">StepN</a>, which recently made waves as the first blockchain gaming app to integrate <a href="https://coincu.com/189045-stepn-incorporates-apple-pay/" target="_blank" rel="noreferrer noopener">Apple Pay</a>.</p>
+
+
+
+<p>The competition spans three phases over three months, running from July 10 to October 9. The initial phase, concluding on August 8, challenges participants to submit designs for a pre-selected list of character codenames, including Ape Commander, Ascetic Monk, Combat Queen, Lone Werewolf, and more.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/07/image-612-1024x419.png"><img decoding="async" loading="lazy" width="1024" height="419" src="https://coincu.com/wp-content/uploads/2023/07/image-612-1024x419.png" alt="StepN Creator Unveils Gas Hero, A New Web3 MMO Game" class="wp-image-201535" srcset="https://coincu.com/wp-content/uploads/2023/07/image-612-1024x419.png 1024w, https://coincu.com/wp-content/uploads/2023/07/image-612-300x123.png 300w, https://coincu.com/wp-content/uploads/2023/07/image-612-768x314.png 768w, https://coincu.com/wp-content/uploads/2023/07/image-612-750x307.png 750w, https://coincu.com/wp-content/uploads/2023/07/image-612-1140x466.png 1140w, https://coincu.com/wp-content/uploads/2023/07/image-612.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="StepN Creator Unveils Gas Hero, A New Web3 MMO Game 8"></a></figure></div>
+
+
+<p>Gas Hero&#8217;s lore revolves around a dystopian future set in the year 2084, where a rogue AI triggers a nuclear strike. In response, the United Nations establishes Operation Spark, leading to the creation of the &#8220;Gas Heroes.&#8221; In the game&#8217;s science-fiction world, &#8220;gas&#8221; refers to the natural gas powering the cloning labs.</p>
+
+
+
+<p>While Gas Hero is currently in development, the game will utilize StepN&#8217;s GMT token upon launch and will offer its own marketplace. Additionally, Gas Hero will incorporate player voting mechanisms for decentralized decision-making within the game.</p>
+
+
+
+<p>As the Gas Hero community eagerly awaits the game&#8217;s release, the Shape the Legends, Share the Glory competition stands as a testament to FSL&#8217;s commitment to community engagement and the evolving landscape of Web3 gaming.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+<p class="has-text-align-right"><a href="https://coincu.com/201515-stepn-creator-unveils-gas-hero/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/07/Final-Thumb-1-1-1024x731.jpg" width="1024" height="731" medium="image" type="image/jpeg" />	</item>
+		<item>
+		<title>BAYC&#8217;s New Game HV-MTL Forge Ready</title>
+		<link>https://coincu.com/199009-baycs-new-game-hv-mtl-forge-ready/</link>
+		
+		<dc:creator><![CDATA[Foxy]]></dc:creator>
+		<pubDate>Fri, 30 Jun 2023 03:25:02 +0000</pubDate>
+				<category><![CDATA[GameFi]]></category>
+		<category><![CDATA[# Cryptocurrencies]]></category>
+		<category><![CDATA[#Markets]]></category>
+		<category><![CDATA[BAYC]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[HV-MTL Forge]]></category>
+		<category><![CDATA[HV-MTL NFT]]></category>
+		<category><![CDATA[NFT]]></category>
+		<guid isPermaLink="false">https://coincu.com/?p=199009</guid>
+
+					<description><![CDATA[Bored Ape Yacht Club (BAYC) has announced that the new game HV-MTL Forge has officially launched.<p class="has-text-align-right"><a href="https://coincu.com/199009-baycs-new-game-hv-mtl-forge-ready/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Bored Ape Yacht Club (BAYC) has announced that the new game HV-MTL Forge has officially launched.</em></li>
+
+
+
+<li><em>HV-MTL Forge is a crafting game that pits players against each other and requires HV-MTL NFT for the full experience.</em></li>
+
+
+
+<li><em>HV-MTL Forge will last for 6 seasons and 2 modes.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>According to official news, <a href="https://coincu.com/198702-bayc-floor-price-has-dropped/" target="_blank" rel="noreferrer noopener">Bored Ape Yacht Club (BAYC)</a> has announced that the new game HV-MTL Forge has officially launched. According to the report, HV-MTL Forge is a casual space-building and petting game incorporating maze exploration.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2223.png"><img decoding="async" loading="lazy" width="1024" height="525" src="https://coincu.com/wp-content/uploads/2023/06/image-2223-1024x525.png" alt="BAYC&#039;s New Game HV-MTL Forge Ready" class="wp-image-199015" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2223-1024x525.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2223-300x154.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2223-768x394.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2223-750x385.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2223-1140x585.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-2223.png 1150w" sizes="(max-width: 1024px) 100vw, 1024px" title="BAYC&#039;s New Game HV-MTL Forge Ready 9"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>Yuga Labs developed the game in collaboration with Makemepulse. The game tasks players with creating a forge and keeping their HV characters happy and productive. After you create a space and the items in it, you can submit it for voting. If the community likes what you&#8217;ve done, you can climb the social leaderboards and get energy for the game&#8217;s quests.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Forge on ahead.<br><br>HV-MTL Forge is now live at <a href="https://t.co/iaR9zXu1V1" target="_blank">https://t.co/iaR9zXu1V1</a> <a href="https://t.co/y1HeFyPUFV" target="_blank">pic.twitter.com/y1HeFyPUFV</a></p>&mdash; Bored Ape Yacht Club (@BoredApeYC) <a href="https://twitter.com/BoredApeYC/status/1674499197846843392?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">June 29, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>HV-MTL Forge will last for 6 seasons and 2 modes, providing players with 6 opportunities to upgrade. The HV of the HV-MTL series was originally a small cube named &#8220;Power&#8221;, which is currently in the EVO1 state and can be upgraded through Will evolve to the EVO2 state.</p>
+
+
+
+<p>User HV needs at least 3 AMP Upgrades to reach Evo2 status, and any HV entering the season (regardless of rank) will receive AMP, and other HV holders&#8217; daily votes will decide their season standings ranking. The final seasonal ranking will determine how rare the AMP users receive.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://coincu.com/wp-content/uploads/2023/06/image-2230-1024x622.png"><img decoding="async" loading="lazy" width="1024" height="622" src="https://coincu.com/wp-content/uploads/2023/06/image-2230-1024x622.png" alt="BAYC&#039;s New Game HV-MTL Forge Ready" class="wp-image-199022" srcset="https://coincu.com/wp-content/uploads/2023/06/image-2230-1024x622.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-2230-300x182.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-2230-768x467.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-2230-750x456.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-2230-1140x693.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-2230.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="BAYC&#039;s New Game HV-MTL Forge Ready 10"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>After nine weeks (August 31), Forge&#8217;s game premise will expand to include Rift challenges, where select NFT mech owners will have to compete in a new game mode of the genre. &#8220;dungeon collector&#8221;.</p>
+
+
+
+<p>In Rifts, players will have to craft, explore, and seek rewards to get to the game&#8217;s final stages. According to Yuuga Forging Game Guide, selected players will have to battle &#8220;epic beasts&#8221; in the game&#8217;s final stages and compete with each other for unspecified &#8220;treasures&#8221; before the game time runs out.</p>
+
+
+
+<p>While HV-MTL has a lot of its own ecosystem under the Yuga umbrella, there will also be space for BAYC, MAYC and BAKC holders in the game mechanics. These mechanics won&#8217;t be revealed until the second part of Forge comes out.</p>
+
+
+
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+
+
+
+<p>Join us to keep track of news:&nbsp;<a href="https://linktr.ee/coincu" target="_blank" rel="noreferrer noopener">https://linktr.ee/coincu</a></p>
+
+
+
+<p class="has-text-align-right"><strong>Foxy</strong></p>
+
+
+
+<p class="has-text-align-right"><strong>Coincu</strong>&nbsp;<strong>News</strong></p>
+<p class="has-text-align-right"><a href="https://coincu.com/199009-baycs-new-game-hv-mtl-forge-ready/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/06/Thumb-2023-Foxy-28-2-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Illuvium Joins A Groundbreaking Partnership With GameStop To Launch NFT</title>
+		<link>https://coincu.com/192296-illuvium-gamestop/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Mon, 05 Jun 2023 13:40:13 +0000</pubDate>
+				<category><![CDATA[GameFi]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[Blockchain game]]></category>
+		<category><![CDATA[GameStop]]></category>
+		<category><![CDATA[Illuvium]]></category>
+		<guid isPermaLink="false">https://news.coincu.com/?p=192296</guid>
+
+					<description><![CDATA[Illuvium will cooperate with game retailer GameStop to launch the Illuvium x GameStop D1SK NFT, which contains the exclusive limited edition Illuvitar.<p class="has-text-align-right"><a href="https://coincu.com/192296-illuvium-gamestop/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Illuvium will cooperate with game retailer GameStop to launch the Illuvium x GameStop D1SK NFT, which contains the exclusive limited edition Illuvitar.</em></li>
+
+
+
+<li><em>The total number of NFTs is 20,000, and the sale will start on June 12 for 3 days.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>The blockchain-based game Illuvium will collaborate with gaming store GameStop to release the Illuvium x GameStop D1SK NFT, which includes the special limited edition Illuvitar.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://news.coincu.com/wp-content/uploads/2023/06/image-298.png"><img decoding="async" loading="lazy" width="1024" height="699" src="https://news.coincu.com/wp-content/uploads/2023/06/image-298-1024x699.png" alt="Illuvium Joins A Groundbreaking Partnership With GameStop To Launch NFT" class="wp-image-192300" srcset="https://coincu.com/wp-content/uploads/2023/06/image-298-1024x699.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-298-300x205.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-298-768x525.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-298-750x512.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-298.png 1079w" sizes="(max-width: 1024px) 100vw, 1024px" title="Illuvium Joins A Groundbreaking Partnership With GameStop To Launch NFT 11"></a></figure></div>
+
+
+<p>The entire quantity of NFTs is 20,000, and the sale will begin on June 12 for a duration of three days.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr"><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" />We&#39;re thrilled to announce a groundbreaking collaboration between <a href="https://twitter.com/illuviumio?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">@illuviumio</a>  and <a href="https://twitter.com/GameStopNFT?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">@GameStopNFT</a> for Promo D1SKs sale! Check out the details in the link below! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f3ae.png" alt="🎮" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f30c.png" alt="🌌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/KQoluDLhWZ" target="_blank">https://t.co/KQoluDLhWZ</a> <a href="https://t.co/TJAsZx8aDG" target="_blank">pic.twitter.com/TJAsZx8aDG</a></p>&mdash; Illuvium (@illuviumio) <a href="https://twitter.com/illuviumio/status/1665659741589368832?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">June 5, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Illuvitars are unique and dynamic collectable works of art that reflect a particular avatar of an Illuvial with a distinct expression. Each Illuvitar has a power rating based on its rarity, which helps you climb the scoreboard.</p>
+
+
+
+<p>Each GameStop x Illuvitar D1SK comes with a one-of-a-kind GameStop-branded Illuvitar with over 108 possible combinations based on six distinct Illuvials, three emotions, three backdrop stages, and two finishes.</p>
+
+
+
+<p>All GameStop D1SK buyers will get early access to both the creature collection game, Illuvium Overworld, and the strategic auto-battler, Illuvium Arena!</p>
+
+
+
+<p>Illuvium is a blockchain-based game developed on Ethereum that makes use of the Immutable X network and its Layer-2 scaling mechanism. The role-playing game (RPG) features the creation of 3D cutting-edge characters with real-time character-focused gameplay, all while allowing players to earn in-game non-fungible tokens (NFTs) and stake their tokenized assets in a decentralized, zero-fee framework. </p>
+
+
+
+<p>Illuvium also uses a privacy-preserving, highly scalable architecture with Zero-Knowledge Rollups (zk-Rollups). To complement these and other features, the game employs a decentralized governance structure designed to profit from the ecosystem&#8217;s ILV token and the decentralized autonomous organization (DAO).</p>
+
+
+
+<p>GameStop, long renowned as a brick-and-mortar game store, moved to crypto a year after the historic r/wallstreetbets short squeeze drove its stock surging in January 2021. GameStop created an NFT and cryptocurrency subsidiary in January 2022.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://news.coincu.com/wp-content/uploads/2023/06/image-299.png"><img decoding="async" loading="lazy" width="1024" height="628" src="https://news.coincu.com/wp-content/uploads/2023/06/image-299-1024x628.png" alt="Illuvium Joins A Groundbreaking Partnership With GameStop To Launch NFT" class="wp-image-192303" srcset="https://coincu.com/wp-content/uploads/2023/06/image-299-1024x628.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-299-300x184.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-299-768x471.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-299-750x460.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-299-1140x699.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-299.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="Illuvium Joins A Groundbreaking Partnership With GameStop To Launch NFT 12"></a></figure></div>
+
+
+<p>As previously <a href="https://news.coincu.com/191525-gamestop-partners-with-the-telos-foundation/" target="_blank" rel="noreferrer noopener">reported</a> by Coincu, GameStop has teamed with the Telos Foundation to test a new Web3 game launcher named GameStop Playr.</p>
+
+
+
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your research before investing.</em></p>
+
+
+
+<p>Join us to keep track of news:&nbsp;<a href="https://linktr.ee/coincu" target="_blank" rel="noreferrer noopener">https://linktr.ee/coincu</a></p>
+
+
+
+<p class="has-text-align-right"><strong>Harold</strong></p>
+
+
+
+<p class="has-text-align-right"><strong>Coincu News</strong></p>
+<p class="has-text-align-right"><a href="https://coincu.com/192296-illuvium-gamestop/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/06/final-thumb-2-1-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Web3 Game Developer COMBO To Launch $80 Million Ecosystem Fund</title>
+		<link>https://coincu.com/191699-combo-to-launch-80-million-ecosystem-fund/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Fri, 02 Jun 2023 07:31:36 +0000</pubDate>
+				<category><![CDATA[Web 3]]></category>
+		<category><![CDATA[GameFi]]></category>
+		<category><![CDATA[COMBO]]></category>
+		<category><![CDATA[Ecosystem Fund]]></category>
+		<category><![CDATA[GAME]]></category>
+		<category><![CDATA[Web3]]></category>
+		<guid isPermaLink="false">https://news.coincu.com/?p=191699</guid>
+
+					<description><![CDATA[COMBO, a Web3 game development expansion solution, announced the launch of the Ecosystem Fund.<p class="has-text-align-right"><a href="https://coincu.com/191699-combo-to-launch-80-million-ecosystem-fund/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>COMBO, a Web3 game development expansion solution, announced the launch of the Ecosystem Fund.</em></li>
+
+
+
+<li><em>The team has allocated $80 million to the Ecosystem Fund.</em></li>
+
+
+
+<li><em>This fund will be given to developers creating Web3 games on the ecosystem.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>According to the official announcement, the Ecosystem Fund has been launched by COMBO, a Web3 game development growth solution.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://news.coincu.com/wp-content/uploads/2023/06/image-112.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://news.coincu.com/wp-content/uploads/2023/06/image-112-1024x576.png" alt="Web3 Game Developer COMBO To Launch $80 Million Ecosystem Fund" class="wp-image-191703" srcset="https://coincu.com/wp-content/uploads/2023/06/image-112-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-112-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-112-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-112-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/06/image-112-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-112-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-112.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Web3 Game Developer COMBO To Launch $80 Million Ecosystem Fund 13"></a></figure></div>
+
+
+<p>The Ecosystem Fund has received $80 million from the COMBO team. This funding will be distributed to Web3 game creators working on the ecosystem.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p class="has-small-font-size">&#8220;Creating engaging and sophisticated web3 games is no easy feat. Developers need resources, expertise, and support to bring their ideas to life. To that end, the COMBO Ecosystem Fund was created to fund promising web3 gaming projects that are ready to reshape the industry,&#8221; according to the blog.</p>
+</blockquote>
+
+
+
+<p>Besides the fund, the Ecosystem Fund connects creators with consultants and gaming industry experts who may assist successful applicants through the Web3 game development process.</p>
+
+
+
+<p>The Ecosystem Fund is unique in that it does not just sponsor specific initiatives. It is all about establishing a community of web3 game producers. The Ecosystem Fund is assisting in the development of a vibrant ecosystem of Web3 games that can all benefit from each other&#8217;s success by investing in various projects.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://news.coincu.com/wp-content/uploads/2023/06/image-113.png"><img decoding="async" loading="lazy" width="768" height="433" src="https://news.coincu.com/wp-content/uploads/2023/06/image-113.png" alt="Web3 Game Developer COMBO To Launch $80 Million Ecosystem Fund" class="wp-image-191704" srcset="https://coincu.com/wp-content/uploads/2023/06/image-113.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-113-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-113-750x423.png 750w" sizes="(max-width: 768px) 100vw, 768px" title="Web3 Game Developer COMBO To Launch $80 Million Ecosystem Fund 14"></a></figure></div>
+
+
+<p>COMBO is a scaling solution provider for Web3 game development. It is creating an open-source, decentralized, game-oriented Layer-2 that is available to everyone by using the world&#8217;s top gaming engine.</p>
+
+
+
+<p>The fundamental goal of the network is to maximize the potential of Web3 gaming by providing game developers with a platform that is readily accessible, fairly priced, effective, and secure. COMBO plans to address the scalability challenges that developers have in the Web3 gaming industry by implementing a game-oriented Layer-2 approach that will enable them to create vast and engaging gaming experiences.</p>
+
+
+
+<p>One of the key features of COMBO is its focus on connection and interoperability within the greater Web3 ecosystem. By linking game creators to the whole ecosystem, the platform offers simple integration with multiple blockchain networks, protocols, and services. Due to this interconnection, game developers may have access to the infrastructure, tools, and resources required to manufacture and advertise their projects on a global scale.</p>
+
+
+
+<p>Moreover, COMBO has chosen the Binance Smart Chain (BNB) to implement its revolutionary scaling approach, making it the first optimistic roll-up game centered on this blockchain. With BNB&#8217;s capabilities, COMBO provides game creators with access to a large and active user base, providing them with a huge market for their projects.</p>
+
+
+
+<p>By offering a scalable and efficient solution, the project also assists developers in creating engaging gaming experiences that may reach a large audience and spark the next gaming bull market.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+
+
+
+<p>Join us to keep track of news:&nbsp;<a href="https://linktr.ee/coincu" target="_blank" rel="noreferrer noopener">https://linktr.ee/coincu</a></p>
+
+
+
+<p class="has-text-align-right"><strong>Harold</strong></p>
+
+
+
+<p class="has-text-align-right"><strong>Coincu</strong> <strong>News</strong></p>
+<p class="has-text-align-right"><a href="https://coincu.com/191699-combo-to-launch-80-million-ecosystem-fund/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/06/image-114-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>GameStop Partners With The Telos Foundation To Expand Web3 Gaming</title>
+		<link>https://coincu.com/191525-gamestop-partners-with-the-telos-foundation/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Thu, 01 Jun 2023 18:10:43 +0000</pubDate>
+				<category><![CDATA[GameFi]]></category>
+		<category><![CDATA[Web 3]]></category>
+		<category><![CDATA[GAME]]></category>
+		<category><![CDATA[GameStop]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[Telos Foundation]]></category>
+		<category><![CDATA[Web3]]></category>
+		<guid isPermaLink="false">https://news.coincu.com/?p=191525</guid>
+
+					<description><![CDATA[The Telos Foundation has partnered with GameStop to promote Web3-based gaming.<p class="has-text-align-right"><a href="https://coincu.com/191525-gamestop-partners-with-the-telos-foundation/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>The Telos Foundation has partnered with GameStop to promote Web3-based gaming.</em></li>
+
+
+
+<li><em>The agreement allows the Telos blockchain to have access to game distribution through GameStop Playr, the company&#8217;s upcoming Web3 game launcher.</em></li>
+
+
+
+<li><em>GameStop created a gaming-focused NFT marketplace and a cryptocurrency wallet last year.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>With a collaboration with the Telos Foundation, GameStop is enhancing its NFT gaming approach. The <a href="https://www.prnewswire.com/news-releases/telos-announces-strategic-collaboration-with-gamestop-to-expand-web3-gaming-301839456.html" target="_blank" rel="noreferrer noopener">partnership</a> between GameStop and Telos seeks to bring gaming on the Telos blockchain using GameStop&#8217;s Web3 game launcher, known as GameStop Playr.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://news.coincu.com/wp-content/uploads/2023/06/image-66-1024x768.png"><img decoding="async" loading="lazy" width="1024" height="768" src="https://news.coincu.com/wp-content/uploads/2023/06/image-66-1024x768.png" alt="GameStop Partners With The Telos Foundation To Expand Web3 Gaming" class="wp-image-191532" srcset="https://coincu.com/wp-content/uploads/2023/06/image-66-1024x768.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-66-300x225.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-66-768x576.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-66-750x563.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-66-1140x855.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-66.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="GameStop Partners With The Telos Foundation To Expand Web3 Gaming 15"></a></figure></div>
+
+
+<p>The agreement, according to the press release, may help drive up to 100 million gamers to web3 over the next two years.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Telos has collaborated with <a href="https://twitter.com/GameStopNFT?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">@GameStopNFT</a> to introduce GameStop Playr, a new Web3 game launcher bringing mainstream gaming to Web3! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f3ae.png" alt="🎮" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br><br>Power to the Web3 Players.<br><br>Official Announcement <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f447.png" alt="👇" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/atdBeatqOc" target="_blank">https://t.co/atdBeatqOc</a> <a href="https://t.co/iJcCM6h7Aq" target="_blank">pic.twitter.com/iJcCM6h7Aq</a></p>&mdash; The Telos Foundation (@HelloTelos) <a href="https://twitter.com/HelloTelos/status/1664274325489459200?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">June 1, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>According to AJ Dinger, director of business development at the Telos Foundation, the cooperation will assist in onboarding new players to the Web3 gaming environment by using Telos&#8217; powerful network.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p class="has-small-font-size">&#8220;We believe this collaboration will be a meaningful driver of new users into the Web3 space. By combining GameStop Playr with Web3 games utilizing Telos&#8217; high-performance blockchain infrastructure, we can break down many of the barriers currently deterring Web2 players from embracing Web3,&#8221; said Dinger.</p>
+</blockquote>
+
+
+
+<p>The alliance intends to link the traditional gaming community with the Web3 audience while also inspiring traditional game studios, publishers, and distributors to experiment with Web3 technologies.</p>
+
+
+
+<p>For well over a year, GameStop has been working on extending to web3 in order to capitalize on the &#8220;meme stock&#8221; frenzy and resuscitate its company. The efforts seem to have paid off, as the company reported its first quarterly profit in two years in March 2023.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://news.coincu.com/wp-content/uploads/2023/06/image-68-1024x341.png"><img decoding="async" loading="lazy" width="1024" height="341" src="https://news.coincu.com/wp-content/uploads/2023/06/image-68-1024x341.png" alt="image 68" class="wp-image-191535" srcset="https://coincu.com/wp-content/uploads/2023/06/image-68-1024x341.png 1024w, https://coincu.com/wp-content/uploads/2023/06/image-68-300x100.png 300w, https://coincu.com/wp-content/uploads/2023/06/image-68-768x256.png 768w, https://coincu.com/wp-content/uploads/2023/06/image-68-750x250.png 750w, https://coincu.com/wp-content/uploads/2023/06/image-68-1140x380.png 1140w, https://coincu.com/wp-content/uploads/2023/06/image-68.png 1500w" sizes="(max-width: 1024px) 100vw, 1024px" title="GameStop Partners With The Telos Foundation To Expand Web3 Gaming 16"></a></figure></div>
+
+
+<p>GameStop is one of the biggest legacy gaming companies that has opted to accept blockchain technology and use it to advance its company. Last year, the store even opened its own NFT marketplace, which received almost $5 million in its first week. It announced cooperation with layer 1 blockchain Immutable X in February 2022 to create a non-fungible token (NFT) marketplace for exchanging in-game assets.</p>
+
+
+
+<p>The marketplace, which has been in public beta since July, will be open to the public in October 2022. In May 2022, the shop will also unveil its self-custodial crypto and NFT wallet.</p>
+
+
+
+<p>Other gaming organizations are now turning to blockchain technology to help them grow their businesses. Square Enix is undoubtedly the industry&#8217;s most venerable brand, having consistently reiterated its commitment to a web3 future.</p>
+
+
+
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your research before investing.</em></p>
+
+
+
+<p>Join us to keep track of news:&nbsp;<a href="https://linktr.ee/coincu" target="_blank" rel="noreferrer noopener">https://linktr.ee/coincu</a></p>
+
+
+
+<p class="has-text-align-right"><strong>Harold</strong></p>
+
+
+
+<p class="has-text-align-right"><strong>Coincu</strong> <strong>News</strong></p>
+<p class="has-text-align-right"><a href="https://coincu.com/191525-gamestop-partners-with-the-telos-foundation/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/06/image-67-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Massive Blockchain Game Illuvium Raises Another $10M From Framework Ventures</title>
+		<link>https://coincu.com/191083-illuvium-raises-10m-framework-ventures/</link>
+		
+		<dc:creator><![CDATA[Foxy]]></dc:creator>
+		<pubDate>Wed, 31 May 2023 02:19:11 +0000</pubDate>
+				<category><![CDATA[GameFi]]></category>
+		<category><![CDATA[# Cryptocurrencies]]></category>
+		<category><![CDATA[#Markets]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[NFT]]></category>
+		<guid isPermaLink="false">https://news.coincu.com/?p=191083</guid>
+
+					<description><![CDATA[Leading DeFi investment firm Framework Ventures has poured another $10 million into the hit game Illuvium.<p class="has-text-align-right"><a href="https://coincu.com/191083-illuvium-raises-10m-framework-ventures/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>The co-founder of the RPG series Illuvium has announced it has raised an additional $10 million in funding from Framework Ventures.</em></li>
+
+
+
+<li><em>The money raised will accelerate the development of the game</em>.</li>
+
+
+
+<li><em>Illuvium is a popular 3D fantasy RPG game built using Unreal Engine 4.26 technology and running on the Immutable X network.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Leading DeFi investment firm Framework Ventures has poured another $10 million into the hit game <a href="https://news.coincu.com/172297-limitless-illuvitars-with-illuviums-release/" target="_blank" rel="noreferrer noopener">Illuvium</a>.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-1688-1024x576.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://news.coincu.com/wp-content/uploads/2023/05/image-1688-1024x576.png" alt="Massive Blockchain Game Illuvium Raises Another $10M From Framework Ventures" class="wp-image-191098" srcset="https://coincu.com/wp-content/uploads/2023/05/image-1688-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/05/image-1688-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/05/image-1688-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/05/image-1688-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/05/image-1688-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/05/image-1688.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" title="Massive Blockchain Game Illuvium Raises Another $10M From Framework Ventures 17"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>It was on May 31 that the co-founder of the RPG series Illuvium, Kieran Warwick, released a statement in the Discord community that he had raised an additional $10 million in funding from Framework Ventures.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-1689.png"><img decoding="async" loading="lazy" width="645" height="331" src="https://news.coincu.com/wp-content/uploads/2023/05/image-1689.png" alt="Massive Blockchain Game Illuvium Raises Another $10M From Framework Ventures" class="wp-image-191102" srcset="https://coincu.com/wp-content/uploads/2023/05/image-1689.png 645w, https://coincu.com/wp-content/uploads/2023/05/image-1689-300x154.png 300w" sizes="(max-width: 645px) 100vw, 645px" title="Massive Blockchain Game Illuvium Raises Another $10M From Framework Ventures 18"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>The money raised will accelerate the development of this game. This transaction is completed through a token, which will be locked for two years and will not be included in the commit, so it will not participate in the distribution of benefits.</p>
+
+
+
+<p>Reportedly, Illuvium is an entirely decentralized collectible and role-playing game built on the Immutable X L2 network. Illuvium is about to launch a public beta with three interactive AAA games: Zero (city builder), Overworld (monster world), and Arena (arena).</p>
+
+
+
+<p>Founded last year by Kieran and Aaron Warwick, this RPG has created a game that rewards players with the chance to discover and capture NFT creatures, known as Illuvials, in combat. The game incentivizes players to have a stake in the project, as the Illuvium network allows in-game fees to be paid out to staked token holders as ongoing rewards.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-1687.png"><img decoding="async" loading="lazy" width="1024" height="842" src="https://news.coincu.com/wp-content/uploads/2023/05/image-1687.png" alt="Massive Blockchain Game Illuvium Raises Another $10M From Framework Ventures" class="wp-image-191097" srcset="https://coincu.com/wp-content/uploads/2023/05/image-1687.png 1024w, https://coincu.com/wp-content/uploads/2023/05/image-1687-300x247.png 300w, https://coincu.com/wp-content/uploads/2023/05/image-1687-768x632.png 768w, https://coincu.com/wp-content/uploads/2023/05/image-1687-750x617.png 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="Massive Blockchain Game Illuvium Raises Another $10M From Framework Ventures 19"></a><figcaption class="wp-element-caption"> </figcaption></figure></div>
+
+
+<p>In March 2021, Illuvium successfully raised $5 million in a seed round led by one of the oldest venture capital funds in the decentralized finance, Framework Ventures. The project has also received financial support from IOSG Ventures, LD Capital, Delphi Digital, YBB Foundation Ltd, Stake Capital, Moonwhale Ventures, Lotus Capital, Blocksync Ventures, Bitscale Capital, Quantstamp, Yield Guild Games, Bitcoin.com, …</p>
+
+
+
+<p>In mid-April 2022, Framework Ventures, a backer of Illuvium and Stardust, said it would invest $200 million in blockchain game projects following the launch of a $400 million fund.</p>
+
+
+
+<p><strong><em>DISCLAIMER:&nbsp;</em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your research before investing.</em></p>
+
+
+
+<p>Join us to keep track of news:&nbsp;<a href="https://linktr.ee/coincu" target="_blank" rel="noreferrer noopener">https://linktr.ee/coincu</a></p>
+
+
+
+<p class="has-text-align-right"><strong>Foxy</strong></p>
+
+
+
+<p class="has-text-align-right"><strong>Coincu</strong>&nbsp;<strong>News</strong></p>
+<p class="has-text-align-right"><a href="https://coincu.com/191083-illuvium-raises-10m-framework-ventures/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/05/Thumb-2023-Foxy-14-3-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>GTA 6 Crypto Rumors Are Stirring Players Again</title>
+		<link>https://coincu.com/190261-gta-6-crypto-rumors/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Fri, 26 May 2023 19:02:03 +0000</pubDate>
+				<category><![CDATA[GameFi]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[Grand Theft Auto 6]]></category>
+		<category><![CDATA[GTA 6]]></category>
+		<category><![CDATA[play to earn]]></category>
+		<category><![CDATA[Rockstar Games]]></category>
+		<guid isPermaLink="false">https://news.coincu.com/?p=190261</guid>
+
+					<description><![CDATA[GTA 6, the next edition, is set to make a quantum leap in game design and player benefits by embracing the crypto revolution.<p class="has-text-align-right"><a href="https://coincu.com/190261-gta-6-crypto-rumors/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>GTA 6, the next edition, is set to make a quantum leap in game design and player benefits by embracing the crypto revolution.</em></li>
+
+
+
+<li><em>While the intricacies of GTA 6&#8217;s gameplay mechanics and microtransactions are undisclosed, experts assume the game will use blockchain technology.</em></li>
+
+
+
+<li><em>The new game may give players additional motivation to participate by allowing them to earn and sell in-game crypto prizes.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>Reports that the highly anticipated game <a href="https://news.coincu.com/102699-grand-theft-auto-6-introduce-crypto/" target="_blank" rel="noreferrer noopener">Grand Theft Auto 6</a> (GTA 6) would be a blockchain game or incorporate some form of coin that can be redeemed in real life returned this week after first surfacing in 2021 and then circling again last year has resurfaced.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-1459.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://news.coincu.com/wp-content/uploads/2023/05/image-1459-1024x576.png" alt="GTA 6 Crypto Rumors Are Stirring Players Again" class="wp-image-190266" srcset="https://coincu.com/wp-content/uploads/2023/05/image-1459-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/05/image-1459-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/05/image-1459-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/05/image-1459-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/05/image-1459-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/05/image-1459-1140x641.png 1140w, https://coincu.com/wp-content/uploads/2023/05/image-1459.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="GTA 6 Crypto Rumors Are Stirring Players Again 20"></a></figure></div>
+
+
+<p>The assertions, however, are now unverified. A cryptocurrency Twitter account was listed as the source of the claims in a <em><a href="https://www.forbesindia.com/article/crypto-made-easy/gta-6-could-introduce-a-crypto-reward-system/77777/1" target="_blank" rel="noreferrer noopener">Forbes India</a></em> story, and neither Rockstar Games nor parent company Take-Two Interactive has verified or rejected the reports so far.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">1/ Rumors surrounding <a href="https://twitter.com/hashtag/GTA6?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener">#GTA6</a> will keep gamers busy for a long time. Despite being debunked, these rumors keep popping up:<br><br><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f4b1.png" alt="💱" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Crypto trading?<br><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f911.png" alt="🤑" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://twitter.com/hashtag/playtoearn?src=hash&amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener">#playtoearn</a> quest rewards? <br><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f3e0.png" alt="🏠" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Your own digital home? <br><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/26d3.png" alt="⛓" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Private chain? <br><br>Many of these can be found in other Web3 projects… <a href="https://t.co/ALwCaRrL7x" target="_blank">pic.twitter.com/ALwCaRrL7x</a></p>&mdash; DappRadar (@DappRadar) <a href="https://twitter.com/DappRadar/status/1662111179827826689?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">May 26, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>GTA 6, the next edition, is set to make a quantum leap in game design and player benefits by embracing the crypto revolution. As the anticipation grows, let&#8217;s go deep into this exciting development in our favorite open-world action adventure.</p>
+
+
+
+<p>Several stories have referenced a recent popular <a href="https://twitter.com/MatDefies/status/1661820136469176339" target="_blank" rel="noreferrer noopener">tweet</a> from a gaming content provider as their source for the information, although this tweet lacks proof supporting the allegations and is purely supposition.</p>
+
+
+
+<p>While the intricacies of GTA 6&#8217;s gameplay mechanics and microtransactions are undisclosed, experts assume the game will use blockchain technology. This strategy might result in players converting earnings earned during games into real-world currency. According to observers, the reported GTA 6 play-to-earn strategy would feature crypto incentives, which will alter how gamers play and earn.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-1460-1024x512.png"><img decoding="async" loading="lazy" width="1024" height="512" src="https://news.coincu.com/wp-content/uploads/2023/05/image-1460-1024x512.png" alt="GTA 6 Crypto Rumors Are Stirring Players Again" class="wp-image-190267" srcset="https://coincu.com/wp-content/uploads/2023/05/image-1460-1024x512.png 1024w, https://coincu.com/wp-content/uploads/2023/05/image-1460-300x150.png 300w, https://coincu.com/wp-content/uploads/2023/05/image-1460-768x384.png 768w, https://coincu.com/wp-content/uploads/2023/05/image-1460-360x180.png 360w, https://coincu.com/wp-content/uploads/2023/05/image-1460-750x375.png 750w, https://coincu.com/wp-content/uploads/2023/05/image-1460-1140x570.png 1140w, https://coincu.com/wp-content/uploads/2023/05/image-1460.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="GTA 6 Crypto Rumors Are Stirring Players Again 21"></a></figure></div>
+
+
+<p>The new Rockstar Games adventure feature has the potential to turn conventional gaming into an additional source of revenue. According to GTA 6 leaks, the game franchise&#8217;s sixteenth overall chapter will include Bitcoin (BTC) as a payment option and incentive token.</p>
+
+
+
+<p>While Rockstar Software has not commented on the reported in-game cryptocurrency incentive system, the company has previously confirmed GTA 6&#8217;s development, saying:</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p class="has-small-font-size">“With the unprecedented longevity of GTA 5, we know many of you have been asking us about a new entry in the Grand Theft Auto series. With every new project we embark on, our goal is always to markedly move beyond what we have previously delivered – and we are pleased to confirm that active development for the Grand Theft Auto series’ next entry is well underway.”</p>
+</blockquote>
+
+
+
+<p>Although Take-Two has made crypto steps, like having its Zynga studio work on Web3 games, Rockstar banned NFTs and bitcoin on fan-operated Grand Theft Auto V servers in November.</p>
+
+
+
+<p>The play-to-earn trend has caused quite a stir in the gaming business, transforming what was previously a pastime into a possible money source. In keeping with this developing trend, GTA 6 may include Bitcoin, one of the world&#8217;s biggest crypto assets, as an in-game payment option and reward token. As a result, a progressive game like GTA 6 might provide more complex play-to-earn transactional services using cryptocurrency.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+
+
+
+<p>Join us to keep track of news:&nbsp;<a href="https://linktr.ee/coincu" target="_blank" rel="noreferrer noopener">https://linktr.ee/coincu</a></p>
+
+
+
+<p class="has-text-align-right"><strong>Harold</strong></p>
+
+
+
+<p class="has-text-align-right"><strong>Coincu</strong> <strong>News</strong></p>
+<p class="has-text-align-right"><a href="https://coincu.com/190261-gta-6-crypto-rumors/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/05/final-thumb-9-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+		<item>
+		<title>Axie Infinity Now Allow Users To Forge Unique And Customizable PFP Avatar</title>
+		<link>https://coincu.com/189539-axie-infinity-allow-forge-avatar/</link>
+		
+		<dc:creator><![CDATA[Harold]]></dc:creator>
+		<pubDate>Wed, 24 May 2023 10:06:50 +0000</pubDate>
+				<category><![CDATA[GameFi]]></category>
+		<category><![CDATA[Axie Avatar Forge]]></category>
+		<category><![CDATA[axie infinity]]></category>
+		<category><![CDATA[PFP avatars]]></category>
+		<category><![CDATA[sky mavis]]></category>
+		<guid isPermaLink="false">https://news.coincu.com/?p=189539</guid>
+
+					<description><![CDATA[Axie Infinity announced the launch of Axie Avatar Forge, which is a standardized and scalable way to issue digital identity certificates for users.<p class="has-text-align-right"><a href="https://coincu.com/189539-axie-infinity-allow-forge-avatar/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Key Points:</strong></p>
+
+
+
+<ul>
+<li><em>Axie Infinity announced the launch of Axie Avatar Forge, which is a standardized and scalable way to issue digital identity certificates for users.</em></li>
+
+
+
+<li><em>Lunacians can now use their Axie on the Axie APP to create unique and customizable PFP avatars.</em></li>
+</ul>
+
+
+
+<h5 class="wp-block-heading"><strong>The blockchain game Axie Infinity has announced the debut of Axie Avatar Forge, which is a standardized and scalable means to give digital identity certificates to players.</strong></h5>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><a href="https://news.coincu.com/wp-content/uploads/2023/05/image-1243.png"><img decoding="async" loading="lazy" width="1024" height="576" src="https://news.coincu.com/wp-content/uploads/2023/05/image-1243-1024x576.png" alt="Axie Infinity Now Allow Users To Forge Unique And Customizable PFP Avatar" class="wp-image-189549" srcset="https://coincu.com/wp-content/uploads/2023/05/image-1243-1024x576.png 1024w, https://coincu.com/wp-content/uploads/2023/05/image-1243-300x169.png 300w, https://coincu.com/wp-content/uploads/2023/05/image-1243-768x432.png 768w, https://coincu.com/wp-content/uploads/2023/05/image-1243-1536x864.png 1536w, https://coincu.com/wp-content/uploads/2023/05/image-1243-2048x1152.png 2048w, https://coincu.com/wp-content/uploads/2023/05/image-1243-750x422.png 750w, https://coincu.com/wp-content/uploads/2023/05/image-1243-1140x641.png 1140w" sizes="(max-width: 1024px) 100vw, 1024px" title="Axie Infinity Now Allow Users To Forge Unique And Customizable PFP Avatar 22"></a></figure></div>
+
+
+<p>Lunacians may now use their axies to create unique and personalized avatars on App.axie.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">1/ The Axie Avatar Forge is LIVE! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2694.png" alt="⚔" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br><br>Every army, every nation, needs a standardized and scalable way of issuing identification to its citizens.<br><br>This is ours. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f9f5.png" alt="🧵" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f447.png" alt="👇" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br><br><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> | <a href="https://t.co/dSLbPiFXZv" target="_blank">https://t.co/dSLbPiFXZv</a> <a href="https://t.co/3TBgzuxjB0" target="_blank">pic.twitter.com/3TBgzuxjB0</a></p>&mdash; Axie Infinity | #AxieOrigins, #AxieHomeland (@AxieInfinity) <a href="https://twitter.com/AxieInfinity/status/1661267313373466624?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">May 24, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Axie Avatar Forge includes features that allow users to diversify their profile.</p>
+
+
+
+<p>To begin, users may choose from a palette of 20 backdrop colors, including translucent, for their PNG or GIF. This enables matching their axie to a personal or business identity in either the digital or physical domains simpler than before. They can also zoom out to display your axie&#8217;s whole body or zoom in on its face. They now have more influence over their digital identity than ever before, thanks to Avatar Forge.</p>
+
+
+
+<p>Users may use elements from the Axie Avatar Forge to build full animated scenarios, or they can freeze the frame of an axie in the midst of an action, such as halfway through a backflip.</p>
+
+
+
+<p>While creating their avatar, users may additionally turn axie accessories on or off using the Axie Avatar Forge.</p>
+
+
+
+<p>In addition, the team will commemorate the debut of the Axie Avatar Forge with a community challenge. Respond to the announcement tweet with an avatar from the Axie Avatar Maker. The best five responses in terms of overall likes will each get one Japanese axie. The competition will be open until June 7.</p>
+
+
+
+<p>Sky Mavis has announced that Axie Infinity: Origins is now accessible on the Apple App Store, although for a limited number of countries, as Coincu previously <a href="https://news.coincu.com/188114-axie-infinity-launched-on-app-store/" target="_blank" rel="noreferrer noopener">reported</a>. Sky Games&#8217; long-term goal is to capitalize on the popularity of Axie Infinity Classic in 2021 by delivering a better gaming experience that does not need users to acquire NFTs and is available via conventional app stores.</p>
+
+
+
+<p>Argentina, Colombia, Peru, Mexico, Venezuela, Indonesia, Malaysia, and Vietnam are among the countries involved in the launch, with a concentration on Latin America and parts of Southeast Asia.</p>
+
+
+
+<p><strong><em>DISCLAIMER: </em></strong><em>The information on this website is provided as general market commentary and does not constitute investment advice. We encourage you to do your own research before investing.</em></p>
+
+
+
+<p>Join us to keep track of news:&nbsp;<a href="https://linktr.ee/coincu" target="_blank" rel="noreferrer noopener">https://linktr.ee/coincu</a></p>
+
+
+
+<p class="has-text-align-right"><strong>Harold</strong></p>
+
+
+
+<p class="has-text-align-right"><strong>Coincu</strong> <strong>News</strong></p>
+<p class="has-text-align-right"><a href="https://coincu.com/189539-axie-infinity-allow-forge-avatar/" target="_blank">Read more...</a></p><p class="has-text-align-right"><a href="https://coincu.com"><strong>Coincu News</strong></a></p>
+]]></content:encoded>
+					
+		
+		
+		<media:content url="https://coincu.com/wp-content/uploads/2023/05/image-1252-1024x731.png" width="1024" height="731" medium="image" type="image/png" />	</item>
+	</channel>
+</rss>

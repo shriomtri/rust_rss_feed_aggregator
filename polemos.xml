@@ -1,0 +1,1079 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+
+<channel>
+	<title>Polemos</title>
+	<atom:link href="https://polemos.io/feed/" rel="self" type="application/rss+xml" />
+	<link>https://polemos.io</link>
+	<description>GameFi Platform for Web3 Gaming Education, Entertainment, &#38; Esports </description>
+	<lastBuildDate>Mon, 07 Aug 2023 23:32:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://polemos.io/wp-content/uploads/2022/12/cropped-cropped-cropped-android-chrome-512x512-1-32x32.png</url>
+	<title>Polemos</title>
+	<link>https://polemos.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+	<itunes:summary>Hal Crawford, from blockchain gaming news site Polemos, interviews the industry&#039;s key characters from founders and CEOs to coders and designers. Billions are being invested in games that incorporate crypto technology, and its widely believed the breakthrough game is coming soon. But which game and when?</itunes:summary>
+	<itunes:author>Hal Crawford</itunes:author>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="https://polemos.io/wp-content/uploads/2023/03/Key_Characters_coverart_lo-1.jpg" />
+	<itunes:type>episodic</itunes:type>
+	<itunes:owner>
+		<itunes:name>Hal Crawford</itunes:name>
+		<itunes:email>news@polemos.io</itunes:email>
+	</itunes:owner>
+	<copyright>Copyright 2023 Polemos</copyright>
+	<podcast:license>Copyright 2023 Polemos</podcast:license>
+	<podcast:medium>podcast</podcast:medium>
+	<itunes:subtitle>The biggest personalities of blockchain gaming</itunes:subtitle>
+	<image>
+		<title>Polemos</title>
+		<url>https://polemos.io/wp-content/uploads/2023/03/Key_Characters_coverart_lo-1.jpg</url>
+		<link>https://polemos.io/welcome-to-the-key-characters-podcast/</link>
+	</image>
+	<itunes:category text="News">
+		<itunes:category text="Tech News" />
+	</itunes:category>
+	<googleplay:category text="News &amp; Politics"/>
+	<itunes:category text="Leisure">
+		<itunes:category text="Video Games" />
+	</itunes:category>
+	<rawvoice:frequency>Weekly</rawvoice:frequency>
+	<podcast:person role="Host">Hal Crawford</podcast:person>
+	<podcast:guid>c9c7bad3-4712-514e-9ebd-d1e208fa1b76</podcast:guid>
+	<rawvoice:subscribe feed="https://polemos.io/feed/" html="https://polemos.io/subscribe-to-podcast/" itunes="https://podcasts.apple.com/us/podcast/key-characters/id1679876650" stitcher="https://www.stitcher.com/show/1064087" spotify="https://open.spotify.com/show/2K04YFJLtkRxPgukbBt7SX" pandora="https://www.pandora.com/podcast/key-characters/PC:1001064087"></rawvoice:subscribe>
+	<item>
+		<title>Baldur&#8217;s Gate 3: How Larian Studios made the best-ever RPG</title>
+		<link>https://polemos.io/baldurs-gate-3-how-larian-studios-made-the-best-rpg/</link>
+		
+		<dc:creator><![CDATA[Sascha Zehe]]></dc:creator>
+		<pubDate>Mon, 07 Aug 2023 23:12:28 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Pharos]]></category>
+		<guid isPermaLink="false">https://polemos.io/?p=252992</guid>
+
+					<description><![CDATA[Polemos co-founder and co-CEO Sascha Zehe on the AAA studio that stuck to its creative guns and killed the competition. More than two decades have passed since Baldur&#8217;s Gate 2...]]></description>
+										<content:encoded><![CDATA[
+<p><em>Polemos co-founder and co-CEO <a href="https://twitter.com/SaschaZehe" data-type="URL" data-id="https://twitter.com/SaschaZehe" target="_blank" rel="noreferrer noopener">Sascha Zehe</a> on the AAA studio that stuck to its creative guns and killed the competition. </em></p>
+
+
+
+<p><strong>More than two decades have passed since Baldur&#8217;s Gate 2 came out and set a new standard for RPGs at that time.&nbsp;</strong></p>
+
+
+
+<p>For me, this was the game that really catapulted BioWare to the top of RPG developers. What followed with <strong>Star Wars Knights of the Old Republic</strong>, <strong>Mass Effect </strong>and <strong>Dragon Age</strong>, were unbelievable success stories.</p>
+
+
+
+<p>But then it all ended: a once great studio taken down by corporate lackeys, prioritizing short-term profits over creativity.&nbsp;</p>
+
+
+
+<p>As a player, I couldn&#8217;t find the passion in the games anymore. And then they killed <strong>Anthem</strong> &#8211; a game that, in my opinion, had an amazing core gameplay, but eventually died because of so much internal mismanagement.</p>
+
+
+
+<p>Now today, I can only hope that <strong>Dragon Age: Dreadwolf</strong> brings back a shimmer of hope that the old BioWare still exists somewhere. But more importantly, there&#8217;s a flip side to this entire story.&nbsp;</p>
+
+
+
+<p>The downfall of BioWare, once seen as the epitome of RPG development, left a vacuum that others could fill, and boy did one team manage to do so.</p>
+
+
+
+<p>Of course, I&#8217;m talking about <strong>Larian Studios.&nbsp;</strong></p>
+
+
+
+<p>Larian Studios was founded in 1996 by <strong>Sven Vincke</strong>, and to this day, more than 25 years later, he continues to personally lead the studio. I have no doubt that this is one of the reasons why they managed to grow as much as they did as a studio.&nbsp;</p>
+
+
+
+<p>Developing RPGs, led by a gamer with a passion for RPGs &#8211; it&#8217;s a match made in heaven. One that should be the standard, not the odd exception.&nbsp;</p>
+
+
+
+<p>We&#8217;ve seen so many AAA companies in gaming held back by decisions based on business plans and financial motives, completely missing the point of properly addressing the audience; us, the players.&nbsp;</p>
+
+
+
+<p>Well, Vincke is different. Larian Studios is different.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Baldur’s Gate 3 - Mastering combat" width="1080" height="608" src="https://www.youtube.com/embed/eF_KAvMImcM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><figcaption class="wp-element-caption"><em>Polemos has launched a YouTube channel dedicated to Baldur&#8217;s Gate 3 and RPGs. </em></figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">The making of a masterpiece</h2>
+
+
+
+<p>Not only do they protect their playfulness and creativity at all costs, they even risked the entire company 10 years ago when they went all-in on the Divinity Original Sin Series.&nbsp;</p>
+
+
+
+<p>Well, luckily that first installment was a major success and what followed with Divinity Original Sin 2 is one of the best RPGs ever made to date, a game that screams old BioWare everywhere; the creativity, the writing, the passion.&nbsp;</p>
+
+
+
+<p>To me, it is no surprise at all that <strong>Wizards of the Coast</strong> allowed Larian Studios to use the Baldur&#8217;s Gate IP to create the third installment of the series &#8211; an IP that a lot of developers have tried to get over the years.</p>
+
+
+
+<p>What came as a surprise to me though, is what happened next; the development of not only a great game, but a real masterpiece.</p>
+
+
+
+<p>And it wasn&#8217;t developed in secret, behind closed doors. Instead it was hand-in-hand with the community, with us.&nbsp;</p>
+
+
+
+<p>Three years of early access lie behind us. Three years. Larian Studios has proven they understand community management.</p>
+
+
+
+<p>They listened to feedback, went above and beyond in terms of story depth and kept us entertained through the engaging Panel from Hell showcases. </p>
+
+
+
+<p>Where else do we see this nowadays in an industry where so many giants have been riddled with scandals, whether that&#8217;s mistreatment of female employees, crunch culture, unfair wages, or simply just the release of incredibly poorly optimized products.</p>
+
+
+
+<p>When you see team members from Larian Studios somewhere, you can feel how excited they are about their job and the opportunity to develop this amazing game.&nbsp;</p>
+
+
+
+<p><strong><a href="https://polemos.io/baldurs-gate-3-is-a-monster-122gb-download/" data-type="URL" data-id="https://polemos.io/baldurs-gate-3-is-a-monster-122gb-download/" target="_blank" rel="noreferrer noopener">Baldur&#8217;s Gate 3</a> </strong>obviously benefits from its Dungeons &amp; Dragons background. When Covid forced us all inside D&amp;D exploded and reached a popularity that exceeded anything before in the more than 40 years since its release.</p>
+
+
+
+<p>But while that plays a part in today&#8217;s BG3 hype, it isn&#8217;t the reason this game will bring about a new era of RPGs. You just have to look around and follow some of the discussions in the game industry. We have other AAA game developers trying to paint a picture of <strong>Baldur&#8217;s Gate 3</strong> as an anomaly, something we can&#8217;t measure other games against.</p>
+
+
+
+<h2 class="wp-block-heading">Creativity is good for business</h2>
+
+
+
+<p>But why is that? Larian is a big studio. Sure. And it&#8217;s obvious that teams with a lot less funding and employees might not be able to reach the same complexity and content depth as <strong>Baldur&#8217;s Gate 3</strong> has.&nbsp;</p>
+
+
+
+<p>How can this be true for other AAA gaming companies, though? I mean, we&#8217;re seeing developers from companies much bigger than Larian join in on the anomaly bandwagon.</p>
+
+
+
+<p>Isn&#8217;t this showing what&#8217;s wrong with the industry? Shouldn&#8217;t we instead all celebrate Larian Studios for pulling off the development of such a masterpiece hand-in-hand with the community on top of that? Shouldn&#8217;t we all take this as a new standard that we strive towards reaching or possibly even exceeding going forward?</p>
+
+
+
+<p>We&#8217;ve had an issue too often in game development where greed and impatience steer directions that should have been determined by creativity and a desire to deliver quality products. Larian Studios took that route of passion.&nbsp;</p>
+
+
+
+<p>They didn&#8217;t take a shortcut. They didn&#8217;t shy away from involving the community and they will be rewarded for this tremendously.</p>
+
+
+
+<p>I&#8217;ve personally played over a hundred hours of Divinity Original Sin 2 and having played nothing but early access of Baldur&#8217;s Gate 3 the time of this recording, I can already say that this number will be tiny when I&#8217;m done with all my playthroughs of BG3.&nbsp;</p>
+
+
+
+<p>Bad games don&#8217;t manage to keep players entertained for that long and delivering bad games will not make it more likely for players to purchase new games of a company either.</p>
+
+
+
+<p>That&#8217;s why I&#8217;m so excited to see that we still have studios out there that are different. So with this, I want to say thank you, Larian Studios.&nbsp;</p>
+
+
+
+<p>Thank you for filling the vacuum a struggling BioWare left in the RPG space.&nbsp;</p>
+
+
+
+<p>Thank you for daring to develop a game that pushes boundaries, raises eyebrows, and truly brings an immersive role, role-playing experience into our homes.</p>
+
+
+
+<p>Don&#8217;t you ever change.&nbsp;</p>
+
+
+
+<p>Make sure to keep us players close and to keep your passion as a guiding light for future titles to come.&nbsp;</p>
+
+
+
+<p>And please, please, don&#8217;t you ever let business kill creativity.&nbsp;&nbsp;</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="How Larian Studios made the best RPG ever (hint … it’s Baldur’s Gate 3)" width="1080" height="608" src="https://www.youtube.com/embed/BtofQeQ3QN0?start=85&#038;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Sparkball Discord server hacked, developers &#8220;gutted&#8221;</title>
+		<link>https://polemos.io/sparkball-discord-server-hacked-developers-gutted/</link>
+		
+		<dc:creator><![CDATA[Polemos staff]]></dc:creator>
+		<pubDate>Mon, 07 Aug 2023 06:29:09 +0000</pubDate>
+				<category><![CDATA[Pharos]]></category>
+		<category><![CDATA[sparkball]]></category>
+		<guid isPermaLink="false">https://polemos.io/?p=252988</guid>
+
+					<description><![CDATA[The makers of in-development blockchain MOBA Sparkball are “gutted” after their Discord server was hacked on Saturday (UTC) in a scam “clearly timed” to disrupt an early access weekend for...]]></description>
+										<content:encoded><![CDATA[
+<p><strong>The makers of in-development blockchain MOBA <a href="https://polemos.io/sparkball-adds-balls-to-league-of-legends-formula/">Sparkball</a> are “gutted” after their Discord server was hacked on Saturday (UTC) in a scam “clearly timed” to disrupt an early access weekend for the game.</strong></p>
+
+
+
+<p>Several community members posted to X that they had lost between $500 &#8211; $10,000 worth of NFTs after clicking on a scam link in the server to claim game token $SPARK, but those losses have yet to be verified.&nbsp;</p>
+
+
+
+<p>The server was back up and running as of Sunday at 5pm (UTC) after being hacked in the early hours of Saturday morning, the project said, but the community was warned to be careful.</p>
+
+
+
+<p>“We are (theoretically) back in control of our Discord. Be EXTRA careful until we fully confirm,” <a href="https://twitter.com/SparkadiaGG/status/1688234747515072512" target="_blank" rel="noopener">Worldspark Studios wrote in a post on X</a>.</p>
+
+
+
+<p>“New URL is<a href="https://t.co/5NOn2NXiNB" target="_blank"> http://discord.gg/Sparkball</a> as the old URL was stolen… this was very clearly a timed hack for Early Access and we&#8217;re gutted this happened.”</p>
+
+
+
+<p>Worldspark Studios CEO <strong>Chandler Thomlison</strong> said the hack was incredibly thorough.</p>
+
+
+
+<p>“The website they set up was way too good to spin up overnight and this was clearly not their first time doing this process as they absolutely cleaned house and prevented any other way to get back in.</p>
+
+
+
+<p>“It is absolutely terrible that this happened and we are sorry for anyone affected.”</p>
+
+
+
+<p>In other evidence of the scammers&#8217; meticulous approach, the original Sparkball Discord server was set to block messages with the words “scam” and “hack” so that community members could not warn each other of the breach.</p>
+
+
+
+<p><em>Enjoy our reporting? </em><a href="https://polemos.io/sign-up-for-the-polemos-newsletter/"><em>Sign up for the Pharos newsletter</em></a><em> and receive an update every week for free.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Blockchain gaming: It’s not the world that has to change, it’s us</title>
+		<link>https://polemos.io/focus-on-gaming-fun-the-rest-will-take-care-of-itself/</link>
+		
+		<dc:creator><![CDATA[Hal Crawford]]></dc:creator>
+		<pubDate>Fri, 04 Aug 2023 07:14:51 +0000</pubDate>
+				<category><![CDATA[Pharos]]></category>
+		<category><![CDATA[Newsletter]]></category>
+		<guid isPermaLink="false">https://polemos.io/?p=252977</guid>
+
+					<description><![CDATA[Back in February, I came to the conclusion that blockchain gaming had to move beyond appealing only to believers in order to succeed. It was clear to me that we...]]></description>
+										<content:encoded><![CDATA[
+<p>Back in February, I came to the conclusion that blockchain gaming had to move beyond appealing only to believers in order to succeed. It was clear to me that we were reaching only a handful of people with the blockchain gaming message, we were in effect preaching to a small but passionate choir, and there was a vast gaming public that didn’t trust, didn’t understand, or didn’t care about BG.</p>
+
+
+
+<p>Six months later, my thinking has evolved, and I’ve come to a startling conclusion: it’s not the world that has to change, it’s us. In placing all the emphasis on the potential of one revolutionary technology &#8211; the blockchain &#8211; we were missing the point. The message all the most insightful people in the gaming industry were giving me was that the fun comes first. The technology is just part of building the game vehicle. What the vehicle delivers, if it’s successful, is fun.</p>
+
+
+
+<p>Ok, that’s pretty straightforward. Blockchain tech is an important part of the next wave of gaming &#8211; allowing true ownership of in-game assets, for example &#8211; but it’s not everything or even the main thing. The main thing is the fun, but that leads to a hard question: what actually is fun?</p>
+
+
+
+<p>It’s difficult to pin down, because activities that in any other circumstance would look like drudgery can actually be fun in games. Micromanagement of resources. Multiple fruitless attempts to kill a boss. Grinding for weeks, months and years to find a sword. If someone paid you to do this stuff, you’d probably come home angry and unfulfilled every day. But no one is paying you. You’re doing it for the fun of it.</p>
+
+
+
+<p>Like pornography and the famous judicial quote, fun is hard to define, but you know it when you see it.</p>
+
+
+
+<p>Take the launch of roleplaying game Baldur’s Gate 3 (BG3) <a href="https://polemos.io/baldurs-gate-3-is-a-monster-122gb-download/" data-type="post" data-id="252936">this week</a>. BG3, based on Dungeons and Dragons, is absolutely massive, with a vast world to explore, hundreds of character combinations, 174 hours of cutscenes and a reputed 17,000 possible endings. Polemos co-CEO <strong>Sascha Zehe</strong> is a big fan, and as he explained to me the richness of the game, I began to feel the excitement. BG3 is not a blockchain game, but it is on the cutting edge of game development and it most definitely is fun.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Why turn-based combat works in Baldur&#039;s Gate 3" width="1080" height="608" src="https://www.youtube.com/embed/Vk-X9BaNGbw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>That is why we are covering it. Last week we launched the <a href="https://www.youtube.com/@Polemos_RPG" target="_blank" rel="noopener">Polemos_RPG YouTube channel</a>, with <strong>Sascha</strong> taking the lead on BG3 in video. I have been immersed in a world of races, classes, quests and 20-sided dice. No problem. This is fun.</p>
+
+
+
+<p>The same for another YouTube channel we have started &#8211; this time with game expert <strong>Cavan “Caveman” Roe</strong> taking the lead role &#8211; named <a href="https://www.youtube.com/@Polemos_Armored_Core_6" target="_blank" rel="noopener">Polemos_Armored_Core_6</a>. In the game, advanced mechs fly through enormous space hangars seeking out and destroying enemies. It is insane, loud and most definitely fun.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Declassified: The 7 Biggest Leaks in Armored Core 6!" width="1080" height="608" src="https://www.youtube.com/embed/fwrBzN4TD08?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>As we fill out our content offering, we continue to believe that blockchain tech will feature heavily in the next wave of big games, and particularly that asset ownership will become widespread and fundamental to gaming fun in future. So we’ll continue to cover the big names and the up-and-comers: games like <a href="https://polemos.io/grab-a-piece-of-free-land-to-play-illuvium-zero/" data-type="post" data-id="250489">Illuvium</a>, <a href="https://polemos.io/jerry-singer-on-metalcore-and-firefighting/" data-type="post" data-id="252887">Metalcore</a>, <a href="https://polemos.io/new-shrapnel-map-to-mix-blossom-and-blood/" data-type="post" data-id="252521">Shrapnel</a>, and <a href="https://polemos.io/wildcard-adds-new-combat-combos-and-log-zooka/" data-type="post" data-id="252944">Wildcard</a>. Our remit is broader, and I’m happier because of it.</p>
+
+
+
+<h2 class="wp-block-heading">Neon Ascension update</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://polemos.io/wp-content/uploads/2023/08/040823_wildcard_bolgar1-1024x576.jpg" alt="" class="wp-image-252960" srcset="https://polemos.io/wp-content/uploads/2023/08/040823_wildcard_bolgar1-1024x576.jpg 1024w, https://polemos.io/wp-content/uploads/2023/08/040823_wildcard_bolgar1-300x169.jpg 300w, https://polemos.io/wp-content/uploads/2023/08/040823_wildcard_bolgar1-768x432.jpg 768w, https://polemos.io/wp-content/uploads/2023/08/040823_wildcard_bolgar1-1536x864.jpg 1536w, https://polemos.io/wp-content/uploads/2023/08/040823_wildcard_bolgar1.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>A warning this week from the Wildcard team about fraudsters using fake games to get people to download installers that then drain their wallets. What tickled me was the names of the fake games involved: Brawl Earth, WildWorld, Dawnland, Destruction, Evolion, Pearl, Olymp of Reptiles, and SaintLegend.</p>
+
+
+
+<p>The scams have worked on some people and I think I know why. I reviewed our top 40 list of blockchain games &#8211; the Polemos watch list &#8211; and it’s clear the fraudsters have been doing their homework. The fake names ring kind-of true.</p>
+
+
+
+<p>I decided to try my hand, with a little help from GPT4, and came up with another crop of&nbsp; eight imposters: Starweaver, Bitjade, Vortigon, Veriscape, Solarion, Vortex Reverie, FringeLands and my favourite, Neon Ascension.</p>
+
+
+
+<p>On the real Wildcard: significant changes to the combat system have been rolled out. See <a href="https://polemos.io/wildcard-adds-new-combat-combos-and-log-zooka/" data-type="post" data-id="252944">our article</a> for details.</p>
+
+
+
+<h2 class="wp-block-heading">Yuga Labs ups the frenzy</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://polemos.io/wp-content/uploads/2023/08/Now-AI-July-25-Featured-2-1024x576.png" alt="" class="wp-image-252979" srcset="https://polemos.io/wp-content/uploads/2023/08/Now-AI-July-25-Featured-2-1024x576.png 1024w, https://polemos.io/wp-content/uploads/2023/08/Now-AI-July-25-Featured-2-300x169.png 300w, https://polemos.io/wp-content/uploads/2023/08/Now-AI-July-25-Featured-2-768x432.png 768w, https://polemos.io/wp-content/uploads/2023/08/Now-AI-July-25-Featured-2-1536x864.png 1536w, https://polemos.io/wp-content/uploads/2023/08/Now-AI-July-25-Featured-2.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>I love to watch <a href="https://polemos.io/how-to-play-yuga-labs-new-game/" data-type="post" data-id="252736">Yuga Labs</a>, because I admire their imagination and ability to execute. These are the guys behind the most-traded NFT collections Bored Ape Yacht Club (BAYC), Mutant Ape Yacht Club, and the Otherside virtual land plots.</p>
+
+
+
+<p>There are a number of updates here, most of them typically smart, but there’s just a hint of desperation in all the activity. Yuga has been hit by the zeitgeist decline of NFTs, and it shows in their numbers: from January, the floor price of BAYC NFTs has halved in real dollar terms. That’s a big fall, and don’t forget that in January we already knew all about FTX etc. It feels like existential rot. A new game, a conference in Hong Kong, an actual party in Miami, and an exclusive Otherside demo for a handful for Bored Ape holders do not convince me to the contrary. The only thing I think is really inventive: a licensing deal for people who want to make Bored Ape merchandise (the deal is only available to NFT holders). Of course, that kind of thing only works if the brand still has cultural heft, and unfortunately that may not be the case for much longer.</p>
+
+
+
+<p><em>This is the online version of our weekly newsletter. <a href="https://polemos.io/sign-up-for-the-polemos-newsletter/" data-type="post" data-id="250505">Sign up</a> to have it delivered to your inbox free every week.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Wildcard adds new combat combos and ‘log-zooka’</title>
+		<link>https://polemos.io/wildcard-adds-new-combat-combos-and-log-zooka/</link>
+		
+		<dc:creator><![CDATA[Polemos staff]]></dc:creator>
+		<pubDate>Fri, 04 Aug 2023 01:56:35 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Blockchain gaming news]]></category>
+		<category><![CDATA[Pharos]]></category>
+		<guid isPermaLink="false">https://polemos.io/?p=252944</guid>
+
+					<description><![CDATA[In-development blockchain MOBA Wildcard has detailed “hotly requested” updates to the game’s combat mechanics, including the debut of punch combos and the “log-zooka”. Champion character Bolgar gets those new abilities,...]]></description>
+										<content:encoded><![CDATA[
+<p><strong>In-development blockchain MOBA Wildcard has detailed “hotly requested” updates to the game’s combat mechanics, including the debut of punch combos and the “log-zooka”.</strong></p>
+
+
+
+<p>Champion character Bolgar gets those new abilities, as well as combat moves including dash, auto-magnet and drop kicks, Wildcard <a href="https://polemos.io/the-bettners-on-making-wildcard-a-game-with-a-shot-at-glory/" data-type="URL" data-id="https://polemos.io/the-bettners-on-making-wildcard-a-game-with-a-shot-at-glory/" target="_blank" rel="noreferrer noopener">co-founder <strong>Paul Bettner</strong></a> and game director <strong>Dan Hurd</strong> explained <a href="https://twitter.com/PlayWildcard/status/1686422696316596224" target="_blank" rel="noreferrer noopener">during a Wildcard AMA this week.</a></p>
+
+
+
+<p>“Bolgar is really shaping up &#8211; his specific kit is shaping into being more of a brawler, a kind of a heavy-hitter character,” Hurd said.  </p>
+
+
+
+<p>Bolgar will also be able to step forward as part of his punch combo &#8211; “one, two, three and he will knock things away on his third punch” &#8211; which helps a player connect, and he will auto-magnet to what’s in his range, Hurd said. </p>
+
+
+
+<p>“[The combo and auto-magnet] were two of the most hotly requested and, I think, most vital changes needed to make a functioning combat system.&#8221;</p>
+
+
+
+<p><strong><em>*Enjoy our reporting?</em></strong><a href="https://polemos.io/sign-up-for-the-polemos-newsletter/"><strong><em> Sign up for the Pharos newsletter</em></strong></a><strong><em> and receive an update every week for free</em></strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://polemos.io/wp-content/uploads/2023/08/040823_wildcard_bolgar1-1024x576.jpg" alt="" class="wp-image-252960" srcset="https://polemos.io/wp-content/uploads/2023/08/040823_wildcard_bolgar1-1024x576.jpg 1024w, https://polemos.io/wp-content/uploads/2023/08/040823_wildcard_bolgar1-300x169.jpg 300w, https://polemos.io/wp-content/uploads/2023/08/040823_wildcard_bolgar1-768x432.jpg 768w, https://polemos.io/wp-content/uploads/2023/08/040823_wildcard_bolgar1-1536x864.jpg 1536w, https://polemos.io/wp-content/uploads/2023/08/040823_wildcard_bolgar1.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>A player will also auto-regenerate health if they have not taken damage in a long time, which Hurd likened to a halo overshield. “It keeps health management from being a thing,” he said. </p>
+
+
+
+<p>Hurd also talked through Bolgar’s new drop-kick move, which does “a ton of damage”.&nbsp;</p>
+
+
+
+<p>“His drop-kick hits hard but he does have a recovery, so you get punished if you use that stupidly or try to abuse it. Things can keep hitting you while you’re on the ground.”</p>
+
+
+
+<p>Hurd <a href="https://www.youtube.com/watch?v=OkiHpeJBMqA" target="_blank" data-type="URL" data-id="https://www.youtube.com/watch?v=OkiHpeJBMqA" rel="noreferrer noopener">shared footage of Bolgar blasting his new “log-zooka”</a> and his new dash mechanic. </p>
+
+
+
+<p>“The dash is missing a bit of functionality that we’re going to add to it, which is if he hits an opposing creature or champion, it will punt them away.”</p>
+
+
+
+<p>Bettner said he and Hurd wanted Wildcard’s arena experience to feel like their favourite fighting games.&nbsp;</p>
+
+
+
+<p>“Whether we’re talking about Street Fighter or Smash Brothers, or the 3D fighting games that Dan and I like to point back to &#8211; like this one called Power Stone that we love &#8211; there’s these features in those games that make them feel so good to just run around and beat things up with your main character. </p>
+
+
+
+<p>“And we wanted to take our champions’ core abilities and their special abilities to that level of feeling, like our favourite fighting games, which is really good control and response.”</p>
+
+
+
+<p>The update also included a look a the new Arden arena &#8211; complete with grass &#8211; as well as a new goalie game mode (players will need to “KO” the goalie), community leaderboards and the Wild File ID, which is a record of everything players do in the Wildcard ecosystem and allows a player to save their nickname or alias. </p>
+
+
+
+<p>For a full breakdown on those changes, and more on Bolgar&#8217;s new combat moves, watch this analysis video from Wildcard world champion Caveman:</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Wildcard AMA breakdown: Top 5 leaks" width="1080" height="608" src="https://www.youtube.com/embed/OkiHpeJBMqA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Baldur’s Gate 3 is a monster 122GB download with no preloading</title>
+		<link>https://polemos.io/baldurs-gate-3-is-a-monster-122gb-download/</link>
+		
+		<dc:creator><![CDATA[Polemos staff]]></dc:creator>
+		<pubDate>Wed, 02 Aug 2023 01:18:42 +0000</pubDate>
+				<category><![CDATA[Pharos]]></category>
+		<category><![CDATA[baldur&#039;s gate]]></category>
+		<category><![CDATA[baldur&#039;s gate 3]]></category>
+		<category><![CDATA[RPG]]></category>
+		<guid isPermaLink="false">https://polemos.io/?p=252936</guid>
+
+					<description><![CDATA[Days out from the PC game launch on August 3, Larian Studios has confirmed that RPG Baldur’s Gate 3 will be 122GB with no possibility of starting the download before...]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Days out from the PC game launch on August 3, Larian Studios has confirmed that RPG Baldur’s Gate 3 will be 122GB with no possibility of starting the download before the moment of release.</strong></p>
+
+
+
+<p>Baldur’s Gate 3, based on the Dungeons &amp; Dragons 5th Edition ruleset, is one of the biggest RPG launches of recent years.</p>
+
+
+
+<p>As part of Polemos’ commitment to cutting edge games &#8211; with or without blockchain gaming components &#8211; we are covering Baldur’s Gate 3 on the <a href="https://www.youtube.com/@Polemos_RPG" target="_blank" rel="noopener">Polemos_RPG YouTube channel</a>. The latest version of this fantasy role-playing title pushes the envelope of complexity with around 17,000 possible endings, 172 hours of cutscenes, and multiple character classes, subclasses and races.</p>
+
+
+
+<p>To get some sense of how many character variations are possible, watch the video below from Polemos co-CEO <strong>Sascha Zehe</strong>.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Baldur&#039;s Gate 3 - Comprehensive Guide to Character Creation" width="1080" height="608" src="https://www.youtube.com/embed/E_lW1L133bo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Larian Studios is based in Belgium, and the rollout of Baldur’s Gate 3 is set at 5pm in Ghent. In an update on Steam, Larian gave a series of global locations for the release timing, which happens at 3pm UTC.</p>
+
+
+
+<h2 class="wp-block-heading">Back to day one</h2>
+
+
+
+<p>Gamers who have been playing the pre-release Early Access version of the game will start back at the beginning, and lose access to their saved games.</p>
+
+
+
+<p>“So much has changed that it’s really worth it to start afresh,” the update read.</p>
+
+
+
+<p>At 122GB, the game will take more than 4 hours to download on the average global broadband connection (67Mbps download). To put it in historical perspective, such a download would take 7 months on an old dial-up internet account (56K modem).</p>
+
+
+
+<p>Only the PC version of the game will be available initially. The MacOS and PS5 versions will ship later this year (the PS5 version is scheduled for release September 6). An Xbox version is due in 2024.</p>
+
+
+
+<p>The game features turn-based combat, and that has attracted criticism from some fans for straying from the previous &#8220;real-time with pause&#8221; system. However, Zehe believes that turn-based works well, as he explains in the video below.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Why turn-based combat works in Baldur&#039;s Gate 3" width="1080" height="608" src="https://www.youtube.com/embed/Vk-X9BaNGbw?start=2&#038;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p><em>Enjoy our reporting? </em><a href="https://polemos.io/sign-up-for-the-polemos-newsletter/"><em>Sign up for the Pharos newsletter</em></a><em> and receive an update every week for free.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>&#8220;An extremely positive call&#8221;: Star Atlas maintains fantasy amid cuts</title>
+		<link>https://polemos.io/an-extremely-positive-call-star-atlas-maintains-fantasy-amid-cuts/</link>
+		
+		<dc:creator><![CDATA[Hal Crawford]]></dc:creator>
+		<pubDate>Fri, 28 Jul 2023 02:40:24 +0000</pubDate>
+				<category><![CDATA[Pharos]]></category>
+		<category><![CDATA[Newsletter]]></category>
+		<guid isPermaLink="false">https://polemos.io/?p=252925</guid>
+
+					<description><![CDATA[Star Atlas is a game I have discussed before in this newsletter: specifically, I have called it a “dreaming game”, where the participants suspend reality in order to enjoy the...]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Star Atlas is a game I have discussed before in this newsletter: specifically, I have called it a “<a href="https://polemos.io/who-is-playing-dreaming-games/" data-type="post" data-id="252541">dreaming game</a>”, where the participants suspend reality in order to enjoy the prospect of their grand plans.</strong></p>
+
+
+
+<p>This week, Star Atlas announced <a href="https://polemos.io/star-atlas-slashes-team-delays-main-game-indefinitely/" data-type="post" data-id="252900">massive cutbacks</a>, sacking at least 122 people and leaving a shell of 45 staff. CEO <strong>Michael Wagner </strong>said he was reducing his base salary to around $50k, and put his main game &#8211; an Unreal Engine 5 space MMORPG &#8211; on the backburner.</p>
+
+
+
+<p>I had a peculiar experience listening to the Star Atlas town hall meeting held two days after the announcement. Wagner is a convincing speaker, and approached what should have been a very difficult meeting with admirable calm. He was pitch-perfect for a community that wanted so badly to hear that the dream wasn’t dead.</p>
+
+
+
+<p>Here’s how he began the <a href="https://polemos.io/community-quizzes-star-atlas-boss-after-122-sacked/" data-type="post" data-id="252914">meeting</a>:</p>
+
+
+
+<p>“This is an extremely positive call. I don&#8217;t want this to have a negative overshadow whatsoever.”</p>
+
+
+
+<p>The man who just sacked more than 100 people didn’t want a ‘negative overshadow’? This was bold stuff for the first call to a community that has collectively invested tens of millions of dollars into his gaming project.</p>
+
+
+
+<h2 class="wp-block-heading">BAU in the slaughterhouse</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://polemos.io/wp-content/uploads/2023/07/270723_wagner_star_atlas-1024x576.jpg" alt="" class="wp-image-252920" srcset="https://polemos.io/wp-content/uploads/2023/07/270723_wagner_star_atlas-1024x576.jpg 1024w, https://polemos.io/wp-content/uploads/2023/07/270723_wagner_star_atlas-300x169.jpg 300w, https://polemos.io/wp-content/uploads/2023/07/270723_wagner_star_atlas-768x432.jpg 768w, https://polemos.io/wp-content/uploads/2023/07/270723_wagner_star_atlas.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Wagner went on to characterise the gutting of the studio team as part of a normal business cycle.</p>
+
+
+
+<p>“All of the biggest tech companies out there in the world are making layoffs right now, the Googles and the Metas. They&#8217;re laying off tens of thousands of people to adjust for the market cycle.”</p>
+
+
+
+<p>True. Meta, in particular, has been ruthless in cutting roles as part of the cycle. In two rounds of cuts from the end of 2022, it has cut its global workforce by 24%.</p>
+
+
+
+<p>But Wagner’s comparison is spurious and it’s clear what Star Atlas is suffering from isn’t part of any normal business cycle.&nbsp;</p>
+
+
+
+<p>Start with the magnitude of the cuts: from late 2022, it has cut 81% of its workforce and gone from a very big development team by gaming standards to a medium, non-AAA size.</p>
+
+
+
+<p>The reasons for the financial crisis?</p>
+
+
+
+<p>Wagner lists:</p>
+
+
+
+<ul>
+<li>The loss of $15m on the <a href="https://polemos.io/top-ftx-executive-pleads-guilty/" data-type="post" data-id="250515">FTX collapse</a></li>
+
+
+
+<li>An unexpected $30m tax bill</li>
+
+
+
+<li>The devaluation of the ATLAS token leading to a loss of $65m</li>
+</ul>
+
+
+
+<p>This was a “swing of $110m on our balance sheet” Wagner said during the meeting. The loss of money on FTX is probably the most forgivable of these ills, but I wouldn’t classify it as part of a normal business cycle. An unprecedented fraud at the cutting edge of finance? Yes, but definitely not BAU.</p>
+
+
+
+<h2 class="wp-block-heading">Tax becomes interesting</h2>
+
+
+
+<p>The tax bill is fascinating. Wagner ignored a question Polemos game expert Mogglin asked during the meeting about where that bill came from and what it was for.</p>
+
+
+
+<p>“Of course, we know we have to pay taxes, but it was a $30 million tax bill in 2021, higher than I expected.”</p>
+
+
+
+<p>Could it be that Star Atlas was expecting the money taken in through the sale of tokens would not be taxable? Wagner was very proud of all the money Star Atlas made in the bull market conditions of 2021 &#8211; “phenomenal success … we never expected making almost $200m over the course of a year and a half” &#8211; but it’s possible they viewed the token sales as investments, rather than sales. That would expose Star Atlas to an unexpected tax bill, because fund-raising is not taxable, but sales are.</p>
+
+
+
+<p>Here’s what one expert advised me on the status of tokens like ATLAS:</p>
+
+
+
+<p><em>If a large number of assets were sold as securities in what approximates an IPO, then they&#8217;d likely be deemed non-taxable and represent a cash infusion. On the other hand, if such assets were sold as traditional goods or commodities, then the seller would pay tax on the profit recognized versus the cost basis.</em></p>
+
+
+
+<p>Star Atlas wouldn’t want the ATLAS token to be seen as a security (that would have all kinds of legal implications), so it must have been sold as a “traditional good or commodity” and be taxable. You can’t have it both ways.</p>
+
+
+
+<h2 class="wp-block-heading">Token accounting</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://polemos.io/wp-content/uploads/2023/01/030123_staratlas2-1024x576.jpg" alt="Distance view of the spaceport in the Star Atlas demo" class="wp-image-249198" srcset="https://polemos.io/wp-content/uploads/2023/01/030123_staratlas2-1024x576.jpg 1024w, https://polemos.io/wp-content/uploads/2023/01/030123_staratlas2-300x169.jpg 300w, https://polemos.io/wp-content/uploads/2023/01/030123_staratlas2-768x432.jpg 768w, https://polemos.io/wp-content/uploads/2023/01/030123_staratlas2.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">View of the spaceport in the Star Atlas demo</figcaption></figure>
+
+
+
+<p>To miss the fact that you are selling something taxable and rack up a massive tax bill is poor management. Even worse is the third item in the list, the hole in the “balance sheet” caused by the reduction in the value of ATLAS. This token spiked in September 2021, up to 26 cents, and is now down to fractions of a cent. Wagner patted himself on the back for not selling more of these tokens to the community, keeping them “on the balance sheet”, but this is a confused fantasy. Bear in mind Star Atlas conjured these tokens out of thin air &#8211; they are not shares or investments in the business &#8211; sold some of them, and kept the rest as assets against which they made business plans.</p>
+
+
+
+<p>Let&#8217;s make this more concrete with an example: say I mint a million tokens and manage to sell 100 of them for $5 each. It is not sensible to assume the remaining 9,999,900 tokens are worth $5 each. In fact, it is delusional.</p>
+
+
+
+<p>This kind of circularity is exactly what has triggered collapses elsewhere in crypto, and contributed to its bad name. With no rules around the issuing of tokens, you can do whatever you like with your “balance sheet”. But reality is going to impinge at some point. Your team are going to want to be paid, and not in ATLAS. So what can you do? In the case of Star Atlas, you can sack 80% of your workforce and focus on raising more money from your community.</p>
+
+
+
+<p>Back when I discovered Star Atlas was a dreaming game, I realised it wasn’t good for investors, but might be “something worthwhile on its own terms”. It seems to me that a darker picture is emerging. I said when I listened to Wagner during the town hall that I had a peculiar feeling: that feeling was a desire to believe what he was saying, an impulse to be reassured. That for me is a warning. “A very positive call”? No, I don’t think so.&nbsp;</p>
+
+
+
+<p>The paradoxical thing about a dreaming game is that for it to work, you have to believe there is a real game coming at some point. For anyone paying attention to Star Atlas, it’s clear that is no longer the case.</p>
+
+
+
+<p><em>Enjoy our reporting?&nbsp;</em><a href="https://polemos.io/sign-up-for-the-polemos-newsletter/"><em>Sign up for the Pharos newsletter</em></a><em>&nbsp;and receive an update every week for free.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Community quizzes Star Atlas boss after 122  sacked</title>
+		<link>https://polemos.io/community-quizzes-star-atlas-boss-after-122-sacked/</link>
+		
+		<dc:creator><![CDATA[Emma Chamberlain]]></dc:creator>
+		<pubDate>Thu, 27 Jul 2023 03:42:08 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Blockchain gaming news]]></category>
+		<category><![CDATA[Pharos]]></category>
+		<guid isPermaLink="false">https://polemos.io/?p=252914</guid>
+
+					<description><![CDATA[Star Atlas co-founder and CEO Michael Wagner faced community questions in an AMA on Wednesday (UTC) after announcing the project would sack 122 of its 167 staff.&#160; After framing the...]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Star Atlas co-founder and CEO Michael Wagner faced community questions in an AMA on Wednesday (UTC) after announcing </strong><a href="https://polemos.io/star-atlas-slashes-team-delays-main-game-indefinitely/"><strong>the project would sack 122</strong></a><strong> of its 167 staff.&nbsp;</strong></p>
+
+
+
+<p>After framing the session as an “extremely positive call”, Wagner explained the decision to cut staff was a “completely standard course of business to adjust for market conditions”.</p>
+
+
+
+<p>“All of the biggest tech companies out there in the world are making layoffs right now, the Googles and the Metas,” he said.&nbsp;</p>
+
+
+
+<p>“They&#8217;re laying off tens of thousands of people to adjust for [the] market cycle. And that&#8217;s all we&#8217;re doing, is we&#8217;re adjusting for the market cycle and our sustainability going into the future.”</p>
+
+
+
+<p>“So, I feel really good about this. I don&#8217;t feel good about letting go of amazing, talented team members, but we are going to rebuild from this.”</p>
+
+
+
+<p>“We&#8217;ve been able to extend the runway out for one-year plus &#8211; the future is extremely bright.”</p>
+
+
+
+<p><strong><em>*Enjoy our reporting?</em></strong><a href="https://polemos.io/sign-up-for-the-polemos-newsletter/"><strong><em> Sign up for the Pharos newsletter</em></strong></a><strong><em> and receive an update every week for free</em></strong></p>
+
+
+
+<p>The team behind the blockchain space explorer had already been cut from a height of 235 in 2022, meaning 190 staff will have been let go in less than a year.</p>
+
+
+
+<p>The remaining 45 team members will be focused on the browser-based strategy game SAGE (Star Atlas Golden Era) and the “move-to-progress” mobile companion app Wagner announced last week.&nbsp;&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">Delivery of main game</h2>
+
+
+
+<p>The release timeline for the project’s flagship UE5 MMORPG is still uncertain, but Wagner told the AMA “a lot of effort” was still going into that game.  </p>
+
+
+
+<p>“We&#8217;re still hopeful that there&#8217;s a path to deliver the [2.2] product before the end of the year in Q4.&#8221;</p>
+
+
+
+<p>&#8220;If we lose more than we think then possibly Q1, 2024.&#8221;</p>
+
+
+
+<p>When asked in the AMA what the plan was to secure funding for the future development of the <a href="https://polemos.io/star-atlas-showroom-2-1-massive-ships-and-pretty-skins/">MMORPG</a>, Wagner said: “Our plan from inception was always to build and release product that generates revenue and grows our user base.”</p>
+
+
+
+<p>“The hundreds of millions of dollars that are necessary for AAA open-world game production &#8211; we didn&#8217;t have it at any point in the history of the company. It was always reliant on us being able to generate revenue to continue to reinvest in development.”</p>
+
+
+
+<p>“Whatever people say about Star Citizen, given the extended timeline in its own development, there is a history of being able to sell digital assets &#8211; in their case, non-NFTs &#8211; to fund the development of an expansive vision like ours.”</p>
+
+
+
+<p>“Our hopes are that as we roll out SAGE, as we roll out [the mobile app], we continue development in Unreal Engine 5 and in the years that it will take for us to complete that &#8211;&nbsp; which we&#8217;ve always talked about a very long development timeline here &#8211; we bring the full vision to life.”</p>
+
+
+
+<h2 class="wp-block-heading">Balance sheet depended on own token</h2>
+
+
+
+<p>When asked what needed to happen before the project prioritised the UE5 development, Wagner said anything exceeding $10 million in revenue or investment “would give us some comfort around scaling back up”.</p>
+
+
+
+<p>Earlier in the session, he said the project had initially scaled up its team “to be commensurate with the amount of revenue that we generated” but after “a swing of $110 million in our balance sheet”, the project had had to make some “adjustments”.</p>
+
+
+
+<p>That swing included losing $65 million on Atlas balances held in treasury &#8211; “because we did not want to go out and sell that into the community while we were still building the initial feature sets of the game”; a loss of $15m in the FTX collapse and a tax bill of $30m, a outlay Wagner said wasn’t completely anticipated.&nbsp;</p>
+
+
+
+<p>“Of course, we know we have to pay taxes, but it was a $30 million tax bill in 2021, higher than I expected. “</p>
+
+
+
+<p>“When we had scaled, [we were] anticipating access or the use of those funds. So we need to make some adjustments now. That&#8217;s what we&#8217;re doing for business viability,” Wagner said.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Star Atlas slashes team, delays main game indefinitely</title>
+		<link>https://polemos.io/star-atlas-slashes-team-delays-main-game-indefinitely/</link>
+		
+		<dc:creator><![CDATA[Hal Crawford]]></dc:creator>
+		<pubDate>Tue, 25 Jul 2023 02:43:47 +0000</pubDate>
+				<category><![CDATA[Pharos]]></category>
+		<category><![CDATA[star atlas]]></category>
+		<guid isPermaLink="false">https://polemos.io/?p=252900</guid>
+
+					<description><![CDATA[Blockchain space project Star Atlas will sack the majority of its development team and put its flagship game on the backburner in major cutbacks. ATMTA (“Automata”) CEO and co-founder Michael...]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Blockchain space project Star Atlas will sack the majority of its development team and put its flagship game on the backburner in major cutbacks.</strong></p>
+
+
+
+<p>ATMTA (“Automata”) CEO and co-founder <strong>Michael Wagner</strong> said the Star Atlas team would go from 167 to 45, without giving a timetable for the restructuring. The team had already been cut from a height of 235 in 2022, meaning 190 staff will have been sacked in the space of less than a year.</p>
+
+
+
+<p>In a 6-page letter to his team and the Star Atlas community, Wagner said the cutbacks were necessary after two big capital raising opportunities fell through earlier this year.</p>
+
+
+
+<p>Wagner also listed the loss of $15m from the FTX collapse, a tax bill of $30m, and a reduction in value of the ATLAS token as reasons for the financial crisis.</p>
+
+
+
+<h2 class="wp-block-heading">What remains?</h2>
+
+
+
+<p>He said the remaining team members would focus on building the SAGE game and the “mobile crew companion app”. SAGE (“Star Atlas Golden Era”) is a browser-based strategy game. The phone-based Companion app &#8211; announced less than a week ago &#8211; combines physical activity and blockchain play-to-earn mechanics.</p>
+
+
+
+<p>Neither game has been the core focus of Star Atlas marketing to date, which has centred on the Unreal Engine 5 <a href="https://polemos.io/star-atlas-showroom-2-1-massive-ships-and-pretty-skins/" data-type="post" data-id="252611">MMORPG</a> under development.</p>
+
+
+
+<p class="has-text-align-left"><em>Enjoy our reporting? </em><a href="https://polemos.io/sign-up-for-the-polemos-newsletter/"><em>Sign up for the Pharos newsletter</em></a><em> and receive an update every week for free.</em></p>
+
+
+
+<p>“Even with a reduced scope and delayed timeline on our Unreal Engine product line, we believe it still has immense potential,” wrote Wagner in the letter.</p>
+
+
+
+<p>“While the team size is much smaller, we will be more agile and fully capable of delivering on our prioritized products and maintaining all other existing products.”</p>
+
+
+
+<h2 class="wp-block-heading">Lean times</h2>
+
+
+
+<p>Wagner said the company was reducing all costs where possible.&nbsp;</p>
+
+
+
+<p>“To demonstrate our commitment to the team and to being in this together, each of the founders will be reducing their fixed compensation by a material amount.”</p>
+
+
+
+<p>Wagner personally would be taking “the minimum salary necessary to maintain exemption (no hourly tracking) compliance under existing labor laws.”</p>
+
+
+
+<p>Under federal US law, if an employee makes less than $47,476 their hours must be tracked. It can be inferred from this &#8211; unless there are different state laws covering ATMTA’s operations &#8211; that Wagner will now have a base salary around $50k.</p>
+
+
+
+<p>Three co-founders are listed on the Star Atlas site: Wagner, Chief Product Officer <strong>Danny Floyd</strong> and Chief Technology Officer <strong>Jacob Floyd</strong>.</p>
+
+
+
+<p><em>Read more: <a href="https://polemos.io/who-is-playing-dreaming-games/" data-type="post" data-id="252541">Star Atlas is a &#8220;dreaming game&#8221;</a></em></p>
+
+
+
+<p><em>Read more: <a href="https://polemos.io/star-atlas-opens-up-ip-for-general-commercial-use/" data-type="post" data-id="251906">Star Atlas opens up IP</a></em></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="571" src="https://polemos.io/wp-content/uploads/2023/06/070623_staratlas2-1024x571.jpg" alt="" class="wp-image-252617" srcset="https://polemos.io/wp-content/uploads/2023/06/070623_staratlas2-1024x571.jpg 1024w, https://polemos.io/wp-content/uploads/2023/06/070623_staratlas2-300x167.jpg 300w, https://polemos.io/wp-content/uploads/2023/06/070623_staratlas2-768x428.jpg 768w, https://polemos.io/wp-content/uploads/2023/06/070623_staratlas2.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">From the Unreal Engine Star Atlas game</figcaption></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Everyone knows pay-to-win sucks … where does that leave blockchain games?</title>
+		<link>https://polemos.io/everyone-knows-pay-to-win-sucks-where-does-that-leave-blockchain-games/</link>
+		
+		<dc:creator><![CDATA[Hal Crawford]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 07:57:49 +0000</pubDate>
+				<category><![CDATA[Pharos]]></category>
+		<category><![CDATA[Newsletter]]></category>
+		<guid isPermaLink="false">https://polemos.io/?p=252893</guid>
+
+					<description><![CDATA[“In the height of the 2021 bull run, the industry was openly promoting pay-to-win mechanics. And if anybody who’s been paying attention to gaming anytime in the last 10 to...]]></description>
+										<content:encoded><![CDATA[
+<p>“In the height of the 2021 bull run, the industry was openly promoting pay-to-win mechanics. And if anybody who’s been paying attention to gaming anytime in the last 10 to 15 years knows that pay-to-win sucks. It’s no fun to play against somebody who spent $1000 on something and can kill you in one shot.”</p>
+
+
+
+<p>The quote above, from <strong>Jerry Singer</strong> of mech shooter game <a href="https://polemos.io/metalcore-could-be-faction-fight-heaven/" data-type="post" data-id="252045">Metalcore</a>, goes to the heart of one of blockchain gaming’s biggest conundrums.</p>
+
+
+
+<p>The problem hinges on the difference between what the blockchain allows you to do, and what it is wise to do if you are trying to make a fun game. </p>
+
+
+
+<p>Of the people I have interviewed for Polemos, almost all agree that allowing players to gain a big advantage by spending money wrecks games. It’s easy to grasp why. Most competitive games use artificial constraints that “level the field” in transparent ways, and usually, facilitate a contest whose outcome is unknown. Paying to gain advantage reduces transparency and uncertainty of outcome, and therefore fun.</p>
+
+
+
+<p>If you flip it around and look at it from the developer’s perspective, rather than the player’s, you can see how this becomes a design problem.</p>
+
+
+
+<p>Blockchain tech allows players to really own in-game assets, and to trade them outside the game environment. That’s a revenue and engagement opportunity for developers, but there’s a snag: if the assets have “game power” then regardless of how they were initially earned, you end up with every trade eroding game fun. Yes, the trading might be fun in itself, but that’s a niche pastime.</p>
+
+
+
+<p>Some developers solve the problem by quarantining the blockchain from gameplay. Extraction shooter Shrapnel, <a href="https://polemos.io/new-shrapnel-map-to-mix-blossom-and-blood/" data-type="post" data-id="252521">for example</a>, only allows cosmetic NFTs, and will use the blockchain to facilitate payments to map makers. Collectible card MOBA Wildcard, which has been built as a spectator sport, says the blockchain “will create an actual connection between content creators and their fans”. There will be no <a href="https://polemos.io/the-bettners-on-making-wildcard-a-game-with-a-shot-at-glory/" data-type="post" data-id="252170">paying for stuff</a> that helps you in the arena.</p>
+
+
+
+<p>There is a growing tendency for studios to move away from describing their new projects as&nbsp; “blockchain games” or “web3 games”. This makes sense as a response to mainstream gamer hostility to NFTs, but I believe awareness of the pay-to-win conundrum is also feeding into it.</p>
+
+
+
+<p>Blockchain integrations are just one part of what makes a game good, rather than the defining factor. As <a href="https://polemos.io/sam-peurifoy-on-making-blockchain-games-for-normal-people/" data-type="post" data-id="250721">Sam Peurifoy</a> once said to me, referring to the protocol at the heart of the internet, we don’t talk about TCP/IP games, so why talk about blockchain games?</p>
+
+
+
+<h2 class="wp-block-heading">In the World Of Warcraft closet</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://polemos.io/wp-content/uploads/2023/07/210723_jerry_singer-1024x576.jpg" alt="" class="wp-image-252888" srcset="https://polemos.io/wp-content/uploads/2023/07/210723_jerry_singer-1024x576.jpg 1024w, https://polemos.io/wp-content/uploads/2023/07/210723_jerry_singer-300x169.jpg 300w, https://polemos.io/wp-content/uploads/2023/07/210723_jerry_singer-768x432.jpg 768w, https://polemos.io/wp-content/uploads/2023/07/210723_jerry_singer.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>The quote above was taken from my <a href="https://polemos.io/jerry-singer-on-metalcore-and-firefighting/" data-type="post" data-id="252887">Key Characters interview this week</a>. Here’s another snippet.</p>
+
+
+
+<p><em>Hal: Games are getting bigger. They&#8217;re four times the size of Hollywood as an industry, and just now we&#8217;re seeing a mainstream awareness and commercial adoption of games. Do you think this is surprising?&nbsp;</em></p>
+
+
+
+<p><em>Jerry: I think it&#8217;s surprising it took this long. When I think of just my lifetime … I&#8217;m 30, and when I was in high school, I didn&#8217;t really tell people I played World Of Warcraft. I was an athlete … I was this kid that was playing baseball and I went on to play sports in college. The stigma at the time, this was only 15 or so years ago … it was still something that wasn&#8217;t as accepted as it is today.</em></p>
+
+
+
+<p><em>And it always didn&#8217;t make sense to me … now you&#8217;re seeing some companies completely blow that out of the water, building TV shows like Arcane, right? And I think a lot of people don&#8217;t even realize that when you&#8217;re watching Arcane, you&#8217;re immersing yourself in the story of one of the biggest games that exists … League of Legends.</em></p>
+
+
+
+<p>The story of how Jerry got into crypto, and from there to the Metalcore team, was surprising and the conversation got deeper than I expected. I recommend you <a href="https://polemos.io/jerry-singer-on-metalcore-and-firefighting/" data-type="post" data-id="252887">have a listen</a>.</p>
+
+
+
+<h2 class="wp-block-heading">Blizzard, Battle.net and the curse of exclusivity</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="575" src="https://polemos.io/wp-content/uploads/2023/07/200723_overwatch-1024x575.jpg" alt="" class="wp-image-252880" srcset="https://polemos.io/wp-content/uploads/2023/07/200723_overwatch-1024x575.jpg 1024w, https://polemos.io/wp-content/uploads/2023/07/200723_overwatch-300x169.jpg 300w, https://polemos.io/wp-content/uploads/2023/07/200723_overwatch-768x431.jpg 768w, https://polemos.io/wp-content/uploads/2023/07/200723_overwatch.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>No matter how big you are, it&#8217;s hard to make an exclusive platform work.</p>
+
+
+
+<p>Blizzard this week announced it was launching one of its hit games, Overwatch 2, on Valve’s Steam platform.</p>
+
+
+
+<p>This is a big deal because Blizzard, makers of World Of Warcraft, Starcraft and Diablo, launched their own exclusive game platform, Battle.net, way back in 1996. As an in-house gaming platform it was unprecedented, pre-dating Steam (which began as an exclusive platform but opened up to other games in 2005). Battle.net stuck to its exclusive strategy and relies on Blizzard’s own games along with Activision titles like Call Of Duty.</p>
+
+
+
+<p>Hence the significance of breaking with exclusivity and providing Overwatch on Steam.</p>
+
+
+
+<p>The situation seems somewhat analogous to the video streaming wars and the launch of big exclusive platforms like Disney+. The jury is still out on Disney+, but it’s clear time favours the Steams of this world. More content and less reliance on the quality of your own product. <a href="https://polemos.io/end-of-an-era-as-blizzards-overwatch-2-goes-up-on-steam/" data-type="post" data-id="252879">Read</a></p>
+
+
+
+<h2 class="wp-block-heading">A decade of Call Of Duty</h2>
+
+
+
+<p>One factor feeding into Blizzard&#8217;s decision to put Overwatch 2 on Steam could be the need to appear nice in the midst of parent company Activision Blizzard&#8217;s attempt to merge with Microsoft. You&#8217;ve heard about this before, it&#8217;s the biggest deal ever in games.</p>
+
+
+
+<p>The merger is almost certainly going ahead now: on Monday Sony (the main whiner) and Microsoft signed a deal to keep the blockbuster Call Of Duty games on Playstation for the next 10 years. US competition watchdog the FTC has lost its chief witness (and Sony was always a terrible witness). <a href="https://polemos.io/sony-microsoft-battle-over-call-of-duty-ends/" data-type="post" data-id="252861">Read</a></p>
+
+
+
+<p><em>This is the online version of our <a href="https://polemos.io/subscribe-to-the-pharos-newsletter/" data-type="post" data-id="249661">free weekly newsletter</a>. To sign up, head here.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Jerry Singer on Metalcore and firefighting</title>
+		<link>https://polemos.io/jerry-singer-on-metalcore-and-firefighting/</link>
+		
+		<dc:creator><![CDATA[Polemos staff]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 02:10:28 +0000</pubDate>
+				<category><![CDATA[Key Characters]]></category>
+		<category><![CDATA[Pharos]]></category>
+		<guid isPermaLink="false">https://polemos.io/?p=252887</guid>
+
+					<description><![CDATA[Jerry Singer leads business development on Metalcore, a mech shooter with blockchain integrations. He is also a former professional firefighter, college baseball player, and closet World of Warcraft fanatic. In...]]></description>
+										<content:encoded><![CDATA[
+<p>Jerry Singer leads business development on Metalcore, a mech shooter with blockchain integrations. He is also a former professional firefighter, college baseball player, and closet World of Warcraft fanatic. In this episode of Key Characters, Jerry discusses the change in attitudes towards gaming &#8211; moving away from stigma to mainstream commercialisation &#8211; the difficulty of building games, and Metalcore&#8217;s decision to de-emphasise the blockchain in order that &#8220;the gameplay experience feels native to whoever&#8221;.</p>
+
+
+
+<p>Subscribe to Key Characters on your favorite podcast app or listen directly on the Polemos website.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://polemos.io/wp-content/uploads/2023/07/Jerry3.mp3" length="33601928" type="audio/mpeg" />
+
+			<itunes:subtitle>Jerry Singer leads business development on Metalcore, a mech shooter with blockchain integrations. He is also a former professional firefighter, college baseball player, and closet World of Warcraft fanatic. In...</itunes:subtitle>
+		<itunes:summary><![CDATA[<br />
+Jerry Singer leads business development on Metalcore, a mech shooter with blockchain integrations. He is also a former professional firefighter, college baseball player, and closet World of Warcraft fanatic. In this episode of Key Characters, Jerry discusses the change in attitudes towards gaming &#8211; moving away from stigma to mainstream commercialisation &#8211; the difficulty of building games, and Metalcore&#8217;s decision to de-emphasise the blockchain in order that &#8220;the gameplay experience feels native to whoever&#8221;.<br />
+<br />
+<br />
+<br />
+Subscribe to Key Characters on your favorite podcast app or listen directly on the Polemos website.<br />]]></itunes:summary>
+		<itunes:author>Hal Crawford</itunes:author>
+		<itunes:image href="https://polemos.io/wp-content/uploads/2023/03/Key_Characters_coverart_lo-1.jpg" />
+		<itunes:season>1</itunes:season>
+		<podcast:season>1</podcast:season>
+		<itunes:episode>10</itunes:episode>
+		<podcast:episode>10</podcast:episode>
+		<itunes:title>Jerry Singer on Metalcore and firefighting</itunes:title>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>28:00</itunes:duration>
+	</item>
+	</channel>
+</rss>
